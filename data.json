@@ -1,0 +1,6834 @@
+{
+	"movies1": [
+		{
+			"id": 1,
+			"link": "https://www.imdb.com/title/tt6718170/?ref_=adv_li_tt",
+			"title": "The Super Mario Bros. Movie",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTJhNzlmNzctNTU5Yy00N2YwLThhMjQtZDM0YjEzN2Y0ZjNhXkEyXkFqcGdeQXVyMTEwMTQ4MzU5._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 92,
+			"genre": [
+				[
+					"Animation",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG",
+			"plot": "The story of The Super Mario Bros. on their journey through the Mushroom Kingdom.",
+			"star_rating": 7.3,
+			"metascore": 46,
+			"participated": {
+				"director": [
+					"Aaron Horvath",
+					"Michael Jelenic",
+					"Pierre Leduc",
+					"Fabien Polack"
+				],
+				"actors": [
+					"Chris Pratt",
+					"Anya Taylor-Joy",
+					"Charlie Day",
+					"Jack Black"
+				]
+			},
+			"statistics": [
+				"76,072"
+			]
+		},
+		{
+			"id": 2,
+			"link": "https://www.imdb.com/title/tt13345606/?ref_=adv_li_tt",
+			"title": "Evil Dead Rise",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMmZiN2VmMjktZDE5OC00ZWRmLWFlMmEtYWViMTY4NjM3ZmNkXkEyXkFqcGdeQXVyMTI2MTc2ODM3._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 97,
+			"genre": [
+				[
+					"Horror"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A twisted tale of two estranged sisters whose reunion is cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+			"star_rating": 7.2,
+			"metascore": 68,
+			"participated": {
+				"director": [
+					"Lee Cronin"
+				],
+				"actors": [
+					"Mirabai Pease",
+					"Richard Crouchley",
+					"Anna-Maree Thomas",
+					"Lily Sullivan"
+				]
+			},
+			"statistics": [
+				"20,397"
+			]
+		},
+		{
+			"id": 3,
+			"link": "https://www.imdb.com/title/tt15767808/?ref_=adv_li_tt",
+			"title": "The Last Kingdom: Seven Kings Must Die",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTlmNGE0ZGMtMzdkMC00MjQyLWI1ZjgtZTIxODAyNWJlZDFlXkEyXkFqcGdeQXVyNTQ4ODM2NjM@._V1_UY98_CR0,0,67,98_AL_.jpg",
+			"runtime": 111,
+			"genre": [
+				[
+					"Action",
+					"Drama",
+					"History"
+				]
+			],
+			"movie_rating": "TV-MA",
+			"plot": "In the wake of King Edward's death, Uhtred of Bebbanburg and his comrades adventure across a fractured kingdom in the hopes of uniting England at last.",
+			"star_rating": 7,
+			"metascore": 48,
+			"participated": {
+				"director": [
+					"Edward Bazalgette"
+				],
+				"actors": [
+					"Mark Rowley",
+					"Pekka Strang",
+					"Zoltan Andrasi",
+					"Ingrid García Jonsson"
+				]
+			},
+			"statistics": [
+				"16,510"
+			]
+		},
+		{
+			"id": 4,
+			"link": "https://www.imdb.com/title/tt15326988/?ref_=adv_li_tt",
+			"title": "Ghosted",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNGMzYWZlYmYtNTcyMC00ZGVjLThjN2ItMjY4MjkwN2NlMjYwXkEyXkFqcGdeQXVyOTU0NjY1MDM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 116,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Cole falls head over heels for enigmatic Sadie, but then makes the shocking discovery that she's a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+			"star_rating": 5.8,
+			"metascore": 35,
+			"participated": {
+				"director": [
+					"Dexter Fletcher"
+				],
+				"actors": [
+					"Chris Evans",
+					"Ana de Armas",
+					"Adrien Brody",
+					"Mike Moh"
+				]
+			},
+			"statistics": [
+				"18,499"
+			]
+		},
+		{
+			"id": 5,
+			"link": "https://www.imdb.com/title/tt10366206/?ref_=adv_li_tt",
+			"title": "John Wick: Chapter 4",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 169,
+			"genre": [
+				[
+					"Action",
+					"Crime",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+			"star_rating": 8.2,
+			"metascore": 78,
+			"participated": {
+				"director": [
+					"Chad Stahelski"
+				],
+				"actors": [
+					"Keanu Reeves",
+					"Laurence Fishburne",
+					"George Georgiou",
+					"Lance Reddick"
+				]
+			},
+			"statistics": [
+				"131,344"
+			]
+		},
+		{
+			"id": 6,
+			"link": "https://www.imdb.com/title/tt13521006/?ref_=adv_li_tt",
+			"title": "Beau Is Afraid",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYTNhNWRmMDctYzE4OS00MzczLWJkODgtNzYxZTQxM2Y1YmM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 179,
+			"genre": [
+				[
+					"Comedy",
+					"Drama",
+					"Horror"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Following the sudden death of his mother, a mild-mannered but anxiety-ridden man confronts his darkest fears as he embarks on an epic, Kafkaesque odyssey back home.",
+			"star_rating": 7.3,
+			"metascore": 62,
+			"participated": {
+				"director": [
+					"Ari Aster"
+				],
+				"actors": [
+					"Joaquin Phoenix",
+					"Patti LuPone",
+					"Amy Ryan",
+					"Nathan Lane"
+				]
+			},
+			"statistics": [
+				"6,105"
+			]
+		},
+		{
+			"id": 7,
+			"link": "https://www.imdb.com/title/tt11358390/?ref_=adv_li_tt",
+			"title": "Renfield",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNDIwYjVjMDMtOGYxMy00ZTRiLWE0YzktMjIwYmNhOGE4NGQ4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 93,
+			"genre": [
+				[
+					"Comedy",
+					"Fantasy",
+					"Horror"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Renfield, Dracula's henchman and inmate at the lunatic asylum for decades, longs for a life away from the Count, his various demands, and all of the bloodshed that comes with them.",
+			"star_rating": 6.7,
+			"metascore": 53,
+			"participated": {
+				"director": [
+					"Chris McKay"
+				],
+				"actors": [
+					"Nicholas Hoult",
+					"Nicolas Cage",
+					"Awkwafina",
+					"Ben Schwartz"
+				]
+			},
+			"statistics": [
+				"10,344"
+			]
+		},
+		{
+			"id": 8,
+			"link": "https://www.imdb.com/title/tt2906216/?ref_=adv_li_tt",
+			"title": "Dungeons & Dragons: Honor Among Thieves",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZjAyMGMwYTEtNDk4ZS00YmY0LThhZjUtOWI4ZjFmZmU4N2I3XkEyXkFqcGdeQXVyMTEyNzQ1MTk0._V1_UY98_CR0,0,67,98_AL_.jpg",
+			"runtime": 134,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A charming thief and a band of unlikely adventurers embark on an epic quest to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+			"star_rating": 7.6,
+			"metascore": 72,
+			"participated": {
+				"director": [
+					"John Francis Daley",
+					"Jonathan Goldstein"
+				],
+				"actors": [
+					"Chris Pine",
+					"Michelle Rodriguez",
+					"Regé-Jean Page",
+					"Justice Smith"
+				]
+			},
+			"statistics": [
+				"51,605"
+			]
+		},
+		{
+			"id": 9,
+			"link": "https://www.imdb.com/title/tt13375076/?ref_=adv_li_tt",
+			"title": "The Pope's Exorcist",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYjA0MGU4MzYtYTYxMy00MjRhLTlmMDYtZTVhZDc1Y2QwNWY2XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 103,
+			"genre": [
+				[
+					"Horror",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Follow Gabriele Amorth, the Vatican's leading exorcist, as he investigates the possession of a child and uncovers a conspiracy the Vatican has tried to keep secret.",
+			"star_rating": 6.2,
+			"metascore": 45,
+			"participated": {
+				"director": [
+					"Julius Avery"
+				],
+				"actors": [
+					"Russell Crowe",
+					"Daniel Zovatto",
+					"Alex Essoe",
+					"Franco Nero"
+				]
+			},
+			"statistics": [
+				"9,228"
+			]
+		},
+		{
+			"id": 10,
+			"link": "https://www.imdb.com/title/tt16419074/?ref_=adv_li_tt",
+			"title": "Air",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYmNlOTNlYjUtM2U3Yy00M2ZjLTkxZDQtN2NiNGZiZDI0ZjE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 111,
+			"genre": [
+				[
+					"Drama",
+					"Sport"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Follows the history of shoe salesman Sonny Vaccaro, and how he led Nike in its pursuit of the greatest athlete in the history of basketball, Michael Jordan.",
+			"star_rating": 7.7,
+			"metascore": 73,
+			"participated": {
+				"director": [
+					"Ben Affleck"
+				],
+				"actors": [
+					"Matt Damon",
+					"Jason Bateman",
+					"Ben Affleck",
+					"Chris Messina"
+				]
+			},
+			"statistics": [
+				"21,982"
+			]
+		},
+		{
+			"id": 11,
+			"link": "https://www.imdb.com/title/tt10954600/?ref_=adv_li_tt",
+			"title": "Ant-Man and the Wasp: Quantumania",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 124,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Scott Lang and Hope Van Dyne are dragged into the Quantum Realm, along with Hope's parents and Scott's daughter Cassie. Together they must find a way to escape, but what secrets is Hope's mother hiding? And who is the mysterious Kang?",
+			"star_rating": 6.3,
+			"metascore": 48,
+			"participated": {
+				"director": [
+					"Peyton Reed"
+				],
+				"actors": [
+					"Paul Rudd",
+					"Evangeline Lilly",
+					"Michael Douglas",
+					"Michelle Pfeiffer"
+				]
+			},
+			"statistics": [
+				"116,744"
+			]
+		},
+		{
+			"id": 12,
+			"link": "https://www.imdb.com/title/tt14209916/?ref_=adv_li_tt",
+			"title": "Cocaine Bear",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BODAwZDQ5ZjEtZDI1My00MTFiLTg0ZjUtOGE2YTBkOTdjODFhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 95,
+			"genre": [
+				[
+					"Comedy",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "An oddball group of cops, criminals, tourists and teens converge on a Georgia forest where a huge black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+			"star_rating": 6,
+			"metascore": 54,
+			"participated": {
+				"director": [
+					"Elizabeth Banks"
+				],
+				"actors": [
+					"Keri Russell",
+					"Alden Ehrenreich",
+					"O'Shea Jackson Jr.",
+					"Ray Liotta"
+				]
+			},
+			"statistics": [
+				"60,265"
+			]
+		},
+		{
+			"id": 13,
+			"link": "https://www.imdb.com/title/tt1517268/?ref_=adv_li_tt",
+			"title": "Barbie",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BOWIwZGY0OTYtZjUzYy00NzRmLTg5YzgtYWMzNWQ0MmZiY2MwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Adventure",
+					"Comedy",
+					"Fantasy "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you're a Ken.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Greta Gerwig"
+				],
+				"actors": [
+					"Margot Robbie",
+					"Ariana Greenblatt",
+					"Ryan Gosling",
+					"Helen Mirren"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 14,
+			"link": "https://www.imdb.com/title/tt23219684/?ref_=adv_li_tt",
+			"title": "Mighty Morphin Power Rangers: Once & Always",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTlmNzdiOWUtZmZiYi00ODkyLTk5ZGMtMTcwNzk1MmNjNjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 55,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Family"
+				]
+			],
+			"movie_rating": "TV-Y7",
+			"plot": "The Rangers come face-to-face with a familiar threat from the past. In the midst of a global crisis, they are called on once again to be the heroes the world needs.",
+			"star_rating": 5.9,
+			"metascore": 61,
+			"participated": {
+				"director": [
+					"Charlie Haskell"
+				],
+				"actors": [
+					"Walter Jones",
+					"Steve Cardenas",
+					"Catherine Sutherland",
+					"Charlie Kersh"
+				]
+			},
+			"statistics": [
+				"3,792"
+			]
+		},
+		{
+			"id": 15,
+			"link": "https://www.imdb.com/title/tt14537248/?ref_=adv_li_tt",
+			"title": "Nefarious",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNmY4NTlkNTEtNDBjMS00ZTJiLWFlZDMtNWY0MWFlZmNjMTFlXkEyXkFqcGdeQXVyMzQxODQzMTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 97,
+			"genre": [
+				[
+					"Horror",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "On the day of his scheduled execution, a convicted serial killer gets a psychiatric evaluation during which he claims he is a demon, and further claims that before their time is over, the psychiatrist will commit three murders of his own.",
+			"star_rating": 6.3,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Chuck Konzelman",
+					"Cary Solomon"
+				],
+				"actors": [
+					"Sean Patrick Flanery",
+					"Jordan Belfi",
+					"Tom Ohmer",
+					"James Healy Jr."
+				]
+			},
+			"statistics": [
+				"2,498"
+			]
+		},
+		{
+			"id": 16,
+			"link": "https://www.imdb.com/title/tt3427252/?ref_=adv_li_tt",
+			"title": "The Boogeyman",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzNkYmE1NDYtMmI4Mi00YjU2LTkxZDEtMWI0ZDE4MTczZDRjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller "
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Adaptation of Stephen King's 'The Boogeyman'.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Rob Savage"
+				],
+				"actors": [
+					"Sophie Thatcher",
+					"Chris Messina",
+					"David Dastmalchian",
+					"Vivien Lyra Blair"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 17,
+			"link": "https://www.imdb.com/title/tt1630029/?ref_=adv_li_tt",
+			"title": "Avatar: The Way of Water",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_UY98_CR0,0,67,98_AL_.jpg",
+			"runtime": 192,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+			"star_rating": 7.7,
+			"metascore": 67,
+			"participated": {
+				"director": [
+					"James Cameron"
+				],
+				"actors": [
+					"Sam Worthington",
+					"Zoe Saldana",
+					"Sigourney Weaver",
+					"Stephen Lang"
+				]
+			},
+			"statistics": [
+				"365,089",
+				"$659.68M"
+			]
+		},
+		{
+			"id": 18,
+			"link": "https://www.imdb.com/title/tt10151854/?ref_=adv_li_tt",
+			"title": "Shazam! Fury of the Gods",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzJlM2NmZTItOGQyYS00MmE2LTkwZGUtNDFkNmJmZjRjZjcxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 130,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "The film continues the story of teenage Billy Batson who, upon reciting the magic word \"SHAZAM!\" is transformed into his adult Super Hero alter ego, Shazam.",
+			"star_rating": 6.1,
+			"metascore": 47,
+			"participated": {
+				"director": [
+					"David F. Sandberg"
+				],
+				"actors": [
+					"Zachary Levi",
+					"Asher Angel",
+					"Jack Dylan Grazer",
+					"Rachel Zegler"
+				]
+			},
+			"statistics": [
+				"57,072"
+			]
+		},
+		{
+			"id": 19,
+			"link": "https://www.imdb.com/title/tt12758060/?ref_=adv_li_tt",
+			"title": "Tetris",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZmZmNTdiYjMtZDdmNi00ZGU4LThkYmQtZTFhZWNlYmUxYWZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 118,
+			"genre": [
+				[
+					"Biography",
+					"Drama",
+					"History"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "The story of how one of the world's most popular video games found its way to players around the globe. Businessman Henk Rogers and Tetris inventor Alexey Pajitnov join forces in the USSR, risking it all to bring Tetris to the masses.",
+			"star_rating": 7.4,
+			"metascore": 61,
+			"participated": {
+				"director": [
+					"Jon S. Baird"
+				],
+				"actors": [
+					"Taron Egerton",
+					"Mara Huf",
+					"Miles Barrow",
+					"Rick Yune"
+				]
+			},
+			"statistics": [
+				"36,123"
+			]
+		},
+		{
+			"id": 20,
+			"link": "https://www.imdb.com/title/tt5433140/?ref_=adv_li_tt",
+			"title": "Fast X",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 141,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Crime "
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Dom Toretto and his family are targeted by the vengeful son of drug kingpin Hernan Reyes.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Louis Leterrier"
+				],
+				"actors": [
+					"Vin Diesel",
+					"Jordana Brewster",
+					"Tyrese Gibson",
+					"Michelle Rodriguez"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 21,
+			"link": "https://www.imdb.com/title/tt4873118/?ref_=adv_li_tt",
+			"title": "The Covenant",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 123,
+			"genre": [
+				[
+					"Action",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+			"star_rating": 8.1,
+			"metascore": 63,
+			"participated": {
+				"director": [
+					"Guy Ritchie"
+				],
+				"actors": [
+					"Jake Gyllenhaal",
+					"Dar Salim",
+					"Sean Sagar",
+					"Jason Wong"
+				]
+			},
+			"statistics": [
+				"2,915"
+			]
+		},
+		{
+			"id": 22,
+			"link": "https://www.imdb.com/title/tt12261776/?ref_=adv_li_tt",
+			"title": "65",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYzFhM2M1MDUtNDhmNC00YzEzLThiMzctYWYxZTc0MGJhNWYyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UY98_CR5,0,67,98_AL_.jpg",
+			"runtime": 93,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "An astronaut crash lands on a mysterious planet only to discover he's not alone.",
+			"star_rating": 5.5,
+			"metascore": 40,
+			"participated": {
+				"director": [
+					"Scott Beck",
+					"Bryan Woods"
+				],
+				"actors": [
+					"Adam Driver",
+					"Ariana Greenblatt",
+					"Chloe Coleman",
+					"Nika King"
+				]
+			},
+			"statistics": [
+				"35,845"
+			]
+		},
+		{
+			"id": 23,
+			"link": "https://www.imdb.com/title/tt7985704/?ref_=adv_li_tt",
+			"title": "Operation Fortune: Ruse de guerre",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNjcxOTJhZTEtMWFiYi00NTkwLTlkMzktZDQwMGQ0ZjM3YWU2XkEyXkFqcGdeQXVyMTAxNzQ1NzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 114,
+			"genre": [
+				[
+					"Action",
+					"Comedy",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Special agent Orson Fortune and his team of operatives recruit one of Hollywood's biggest movie stars to help them on an undercover mission when the sale of a deadly new weapons technology threatens to disrupt the world order.",
+			"star_rating": 6.3,
+			"metascore": 51,
+			"participated": {
+				"director": [
+					"Guy Ritchie"
+				],
+				"actors": [
+					"Jason Statham",
+					"Aubrey Plaza",
+					"Cary Elwes",
+					"Hugh Grant"
+				]
+			},
+			"statistics": [
+				"44,268"
+			]
+		},
+		{
+			"id": 24,
+			"link": "https://www.imdb.com/title/tt6710474/?ref_=adv_li_tt",
+			"title": "Everything Everywhere All at Once",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_UY98_CR0,0,67,98_AL_.jpg",
+			"runtime": 139,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.",
+			"star_rating": 7.9,
+			"metascore": 81,
+			"participated": {
+				"director": [
+					"Daniel Kwan",
+					"Daniel Scheinert"
+				],
+				"actors": [
+					"Michelle Yeoh",
+					"Stephanie Hsu",
+					"Jamie Lee Curtis",
+					"Ke Huy Quan"
+				]
+			},
+			"statistics": [
+				"433,606",
+				"$72.86M"
+			]
+		},
+		{
+			"id": 25,
+			"link": "https://www.imdb.com/title/tt5635026/?ref_=adv_li_tt",
+			"title": "Peter Pan & Wendy",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMzQ4ZDZlYWQtNzFiMi00ZWRmLTkxYTMtOGJhYzczMGE3YjAxXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 106,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy "
+				]
+			],
+			"movie_rating": "PG",
+			"plot": "Follow the adventures of a boy who does not want to grow up, and how he recruits three brothers in London, and together they embark on a magical adventure on the enchanted island of Neverland.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"David Lowery"
+				],
+				"actors": [
+					"Alexander Molony",
+					"Ever Anderson",
+					"Joshua Pickering",
+					"Jacobi Jupe"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 26,
+			"link": "https://www.imdb.com/title/tt14153080/?ref_=adv_li_tt",
+			"title": "A Good Person",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYzBkZGYyM2QtNzgwYy00NmZjLTk2ZTItYzY3ZTdjY2M0YmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 128,
+			"genre": [
+				[
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Follows Allison, whose life falls apart following her involvement in a fatal accident.",
+			"star_rating": 7,
+			"metascore": 50,
+			"participated": {
+				"director": [
+					"Zach Braff"
+				],
+				"actors": [
+					"Florence Pugh",
+					"Morgan Freeman",
+					"Celeste O'Connor",
+					"Molly Shannon"
+				]
+			},
+			"statistics": [
+				"4,911"
+			]
+		},
+		{
+			"id": 27,
+			"link": "https://www.imdb.com/title/tt5971474/?ref_=adv_li_tt",
+			"title": "The Little Mermaid",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYTUxYjczMWUtYzlkZC00NTcwLWE3ODQtN2I2YTIxOTU0ZTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 135,
+			"genre": [
+				[
+					"Adventure",
+					"Family",
+					"Fantasy "
+				]
+			],
+			"movie_rating": "PG",
+			"plot": "A young mermaid makes a deal with a sea witch to trade her beautiful voice for human legs so she can discover the world above water and impress a prince.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Rob Marshall"
+				],
+				"actors": [
+					"Halle Bailey",
+					"Jonah Hauer-King",
+					"Melissa McCarthy",
+					"Javier Bardem"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 28,
+			"link": "https://www.imdb.com/title/tt1609497/?ref_=adv_li_tt",
+			"title": "Quasi",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTVjZjU3MTItNGNiNS00OGUzLWE2MDktNGFlNjA0MzU5MmUzXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Comedy",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Follow a hapless hunchback who yearns for love, but finds himself in the middle of a murderous feud between the Pope and the king of France when each orders the hunchback to kill the other.",
+			"star_rating": 5.3,
+			"metascore": 51,
+			"participated": {
+				"director": [
+					"Kevin Heffernan"
+				],
+				"actors": [
+					"Brian Cox",
+					"Steve Lemme",
+					"Jay Chandrasekhar",
+					"Kevin Heffernan"
+				]
+			},
+			"statistics": [
+				"1,222"
+			]
+		},
+		{
+			"id": 29,
+			"link": "https://www.imdb.com/title/tt6791350/?ref_=adv_li_tt",
+			"title": "Guardians of the Galaxy Vol. 3",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 150,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"James Gunn"
+				],
+				"actors": [
+					"Chris Pratt",
+					"Zoe Saldana",
+					"Dave Bautista",
+					"Vin Diesel"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 30,
+			"link": "https://www.imdb.com/title/tt9764362/?ref_=adv_li_tt",
+			"title": "The Menu",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMzdjNjI5MmYtODhiNS00NTcyLWEzZmUtYzVmODM5YzExNDE3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 107,
+			"genre": [
+				[
+					"Comedy",
+					"Horror",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A young couple travels to a remote island to eat at an exclusive restaurant where the chef has prepared a lavish menu, with some shocking surprises.",
+			"star_rating": 7.2,
+			"metascore": 71,
+			"participated": {
+				"director": [
+					"Mark Mylod"
+				],
+				"actors": [
+					"Ralph Fiennes",
+					"Anya Taylor-Joy",
+					"Nicholas Hoult",
+					"Hong Chau"
+				]
+			},
+			"statistics": [
+				"299,981"
+			]
+		},
+		{
+			"id": 31,
+			"link": "https://www.imdb.com/title/tt15255288/?ref_=adv_li_tt",
+			"title": "Murder Mystery 2",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMzkyMjU1ZjMtMDJlMS00M2YzLWJhZDQtYjFjZTUyMzI2MDViXkEyXkFqcGdeQXVyMzQyMDgzOTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 90,
+			"genre": [
+				[
+					"Action",
+					"Comedy",
+					"Crime"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Full-time detectives Nick and Audrey are struggling to get their private eye agency off the ground. They find themselves at the center of international abduction when their friend Maharaja, is kidnapped at his own lavish wedding.",
+			"star_rating": 5.6,
+			"metascore": 44,
+			"participated": {
+				"director": [
+					"Jeremy Garelick"
+				],
+				"actors": [
+					"Adam Sandler",
+					"Jennifer Aniston",
+					"Mark Strong",
+					"Mélanie Laurent"
+				]
+			},
+			"statistics": [
+				"43,953"
+			]
+		},
+		{
+			"id": 32,
+			"link": "https://www.imdb.com/title/tt7888964/?ref_=adv_li_tt",
+			"title": "Nobody",
+			"year": 2021,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjM5YTRlZmUtZGVmYi00ZjE2LWIyNzAtOWVhMDk1MDdkYzhjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 92,
+			"genre": [
+				[
+					"Action",
+					"Crime",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A docile family man slowly reveals his true character after his house gets burgled by two petty thieves, which, coincidentally, leads him into a bloody war with a Russian crime boss.",
+			"star_rating": 7.4,
+			"metascore": 64,
+			"participated": {
+				"director": [
+					"Ilya Naishuller"
+				],
+				"actors": [
+					"Bob Odenkirk",
+					"Aleksey Serebryakov",
+					"Connie Nielsen",
+					"Christopher Lloyd"
+				]
+			},
+			"statistics": [
+				"276,930",
+				"$27.27M"
+			]
+		},
+		{
+			"id": 33,
+			"link": "https://www.imdb.com/title/tt10640346/?ref_=adv_li_tt",
+			"title": "Babylon",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNjlkYjc4NGMtZjc3MS00NjQ3LTk4MmUtMTkwZGZjODE1ZDVlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 189,
+			"genre": [
+				[
+					"Comedy",
+					"Drama",
+					"History"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+			"star_rating": 7.2,
+			"metascore": 60,
+			"participated": {
+				"director": [
+					"Damien Chazelle"
+				],
+				"actors": [
+					"Brad Pitt",
+					"Margot Robbie",
+					"Jean Smart",
+					"Olivia Wilde"
+				]
+			},
+			"statistics": [
+				"110,650"
+			]
+		},
+		{
+			"id": 34,
+			"link": "https://www.imdb.com/title/tt5537002/?ref_=adv_li_tt",
+			"title": "Killers of the Flower Moon",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZmMyMDc4NWMtZmUzNC00ZjczLWE1ZmYtYWQ3ZTk4ODBmYzE2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY98_CR40,0,67,98_AL_.jpg",
+			"runtime": 206,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"History "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "Members of the Osage tribe in the United States are murdered under mysterious circumstances in the 1920s, sparking a major F.B.I. investigation involving J. Edgar Hoover.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Martin Scorsese"
+				],
+				"actors": [
+					"Leonardo DiCaprio",
+					"Robert De Niro",
+					"Lily Gladstone",
+					"Jesse Plemons"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 35,
+			"link": "https://www.imdb.com/title/tt1758810/?ref_=adv_li_tt",
+			"title": "The Snowman",
+			"year": 2017,
+			"img": "https://m.media-amazon.com/images/M/MV5BNDg1NjYyMTEyOF5BMl5BanBnXkFtZTgwNzY4MDMyMzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 119,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Detective Harry Hole investigates the disappearance of a woman whose scarf is found wrapped around an ominous-looking snowman.",
+			"star_rating": 5.1,
+			"metascore": 23,
+			"participated": {
+				"director": [
+					"Tomas Alfredson"
+				],
+				"actors": [
+					"Michael Fassbender",
+					"Rebecca Ferguson",
+					"Charlotte Gainsbourg",
+					"Jonas Karlsson"
+				]
+			},
+			"statistics": [
+				"67,883",
+				"$6.67M"
+			]
+		},
+		{
+			"id": 36,
+			"link": "https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt",
+			"title": "Top Gun: Maverick",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 130,
+			"genre": [
+				[
+					"Action",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
+			"star_rating": 8.3,
+			"metascore": 78,
+			"participated": {
+				"director": [
+					"Joseph Kosinski"
+				],
+				"actors": [
+					"Tom Cruise",
+					"Jennifer Connelly",
+					"Miles Teller",
+					"Val Kilmer"
+				]
+			},
+			"statistics": [
+				"574,529",
+				"$718.73M"
+			]
+		},
+		{
+			"id": 37,
+			"link": "https://www.imdb.com/title/tt2911666/?ref_=adv_li_tt",
+			"title": "John Wick",
+			"year": 2014,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 101,
+			"genre": [
+				[
+					"Action",
+					"Crime",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took his car.",
+			"star_rating": 7.4,
+			"metascore": 68,
+			"participated": {
+				"director": [
+					"Chad Stahelski",
+					"David Leitch"
+				],
+				"actors": [
+					"Keanu Reeves",
+					"Michael Nyqvist",
+					"Alfie Allen",
+					"Willem Dafoe"
+				]
+			},
+			"statistics": [
+				"683,464",
+				"$43.04M"
+			]
+		},
+		{
+			"id": 38,
+			"link": "https://www.imdb.com/title/tt7405458/?ref_=adv_li_tt",
+			"title": "A Man Called Otto",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzg3OTEzMTgtYWU0OC00YTI0LWIxOTAtNmRkNTc0Nzg2YWU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UY98_CR5,0,67,98_AL_.jpg",
+			"runtime": 126,
+			"genre": [
+				[
+					"Comedy",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Otto is a grump who's given up on life following the loss of his wife and wants to end it all. When a young family moves in nearby, he meets his match in quick-witted Marisol, leading to a friendship that will turn his world around.",
+			"star_rating": 7.4,
+			"metascore": 51,
+			"participated": {
+				"director": [
+					"Marc Forster"
+				],
+				"actors": [
+					"Tom Hanks",
+					"Mariana Treviño",
+					"Rachel Keller",
+					"John Higgins"
+				]
+			},
+			"statistics": [
+				"62,807",
+				"$62.47M"
+			]
+		},
+		{
+			"id": 39,
+			"link": "https://www.imdb.com/title/tt14109724/?ref_=adv_li_tt",
+			"title": "Ticket to Paradise",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMWE0MmEwMWUtZjRjOC00YzE3LWI2MjctNjc3NWQ0YTVmNDQ4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 104,
+			"genre": [
+				[
+					"Comedy",
+					"Romance"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A divorced couple teams up and travels to Bali to stop their daughter from making the same mistake they think they made 25 years ago.",
+			"star_rating": 6.1,
+			"metascore": 50,
+			"participated": {
+				"director": [
+					"Ol Parker"
+				],
+				"actors": [
+					"George Clooney",
+					"Sean Lynch",
+					"Julia Roberts",
+					"Arielle Carver-O'Neill"
+				]
+			},
+			"statistics": [
+				"48,422",
+				"$68.28M"
+			]
+		},
+		{
+			"id": 40,
+			"link": "https://www.imdb.com/title/tt10676048/?ref_=adv_li_tt",
+			"title": "The Marvels",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYjI3ZDRkMmQtODFhMi00Mzc3LTk5ODYtNDcxZWQxYTJmMjU1XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Fantasy "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "Carol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Nia DaCosta"
+				],
+				"actors": [
+					"Brie Larson",
+					"Samuel L. Jackson",
+					"Zawe Ashton",
+					"Iman Vellani"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 41,
+			"link": "https://www.imdb.com/title/tt17663992/?ref_=adv_li_tt",
+			"title": "Scream VI",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BODBjM2M4YTQtNmJlMS00MGU2LWI4ZGYtZTA1MzdmZDAyMjFkXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 122,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "In the next installment, the survivors of the Ghostface killings leave Woodsboro behind and start a fresh chapter in New York City.",
+			"star_rating": 7,
+			"metascore": 61,
+			"participated": {
+				"director": [
+					"Matt Bettinelli-Olpin",
+					"Tyler Gillett"
+				],
+				"actors": [
+					"Courteney Cox",
+					"Melissa Barrera",
+					"Jenna Ortega",
+					"Jasmin Savoy Brown"
+				]
+			},
+			"statistics": [
+				"48,643"
+			]
+		},
+		{
+			"id": 42,
+			"link": "https://www.imdb.com/title/tt13833688/?ref_=adv_li_tt",
+			"title": "The Whale",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDQ4Njg4YTctNGZkYi00NWU1LWI4OTYtNmNjOWMyMjI1NWYzXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_UY98_CR1,0,67,98_AL_.jpg",
+			"runtime": 117,
+			"genre": [
+				[
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter.",
+			"star_rating": 7.7,
+			"metascore": 60,
+			"participated": {
+				"director": [
+					"Darren Aronofsky"
+				],
+				"actors": [
+					"Brendan Fraser",
+					"Sadie Sink",
+					"Ty Simpkins",
+					"Hong Chau"
+				]
+			},
+			"statistics": [
+				"132,570"
+			]
+		},
+		{
+			"id": 43,
+			"link": "https://www.imdb.com/title/tt11145118/?ref_=adv_li_tt",
+			"title": "Creed III",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYWY1ZDY4MmQtYjhiYS00N2QwLTk1NzgtOWI2YzUwZThjNDYwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 116,
+			"genre": [
+				[
+					"Drama",
+					"Sport"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Adonis has been thriving in both his career and family life, but when a childhood friend and former boxing prodigy resurfaces, the face-off is more than just a fight.",
+			"star_rating": 6.9,
+			"metascore": 73,
+			"participated": {
+				"director": [
+					"Michael B. Jordan"
+				],
+				"actors": [
+					"Michael B. Jordan",
+					"Tessa Thompson",
+					"Jonathan Majors",
+					"Wood Harris"
+				]
+			},
+			"statistics": [
+				"51,559"
+			]
+		},
+		{
+			"id": 44,
+			"link": "https://www.imdb.com/title/tt1288558/?ref_=adv_li_tt",
+			"title": "Evil Dead",
+			"year": 2013,
+			"img": "https://m.media-amazon.com/images/M/MV5BYzk2ZTVhOWMtMWQxYS00OWQzLWFmY2QtODQ4NGFmNGQxZWVmXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 91,
+			"genre": [
+				[
+					"Horror"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.",
+			"star_rating": 6.5,
+			"metascore": 57,
+			"participated": {
+				"director": [
+					"Fede Alvarez"
+				],
+				"actors": [
+					"Jane Levy",
+					"Shiloh Fernandez",
+					"Jessica Lucas",
+					"Lou Taylor Pucci"
+				]
+			},
+			"statistics": [
+				"181,232",
+				"$54.24M"
+			]
+		},
+		{
+			"id": 45,
+			"link": "https://www.imdb.com/title/tt10954984/?ref_=adv_li_tt",
+			"title": "Nope",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMGIyNTI3NWItNTJkOS00MGYyLWE4NjgtZDhjMWQ4Y2JkZTU5XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 130,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Sci-Fi"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery.",
+			"star_rating": 6.8,
+			"metascore": 77,
+			"participated": {
+				"director": [
+					"Jordan Peele"
+				],
+				"actors": [
+					"Daniel Kaluuya",
+					"Keke Palmer",
+					"Brandon Perea",
+					"Michael Wincott"
+				]
+			},
+			"statistics": [
+				"220,941",
+				"$123.28M"
+			]
+		},
+		{
+			"id": 46,
+			"link": "https://www.imdb.com/title/tt13560574/?ref_=adv_li_tt",
+			"title": "X",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_UY98_CR5,0,67,98_AL_.jpg",
+			"runtime": 105,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+			"star_rating": 6.6,
+			"metascore": 79,
+			"participated": {
+				"director": [
+					"Ti West"
+				],
+				"actors": [
+					"Mia Goth",
+					"Jenna Ortega",
+					"Brittany Snow",
+					"Kid Cudi"
+				]
+			},
+			"statistics": [
+				"125,983"
+			]
+		},
+		{
+			"id": 47,
+			"link": "https://www.imdb.com/title/tt12593682/?ref_=adv_li_tt",
+			"title": "Bullet Train",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 127,
+			"genre": [
+				[
+					"Action",
+					"Comedy",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Five assassins aboard a swiftly-moving bullet train find out that their missions have something in common.",
+			"star_rating": 7.3,
+			"metascore": 49,
+			"participated": {
+				"director": [
+					"David Leitch"
+				],
+				"actors": [
+					"Brad Pitt",
+					"Joey King",
+					"Aaron Taylor-Johnson",
+					"Brian Tyree Henry"
+				]
+			},
+			"statistics": [
+				"345,416",
+				"$103.37M"
+			]
+		},
+		{
+			"id": 48,
+			"link": "https://www.imdb.com/title/tt13405778/?ref_=adv_li_tt",
+			"title": "Insidious: The Red Door",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjdlZjI4YTEtNjgzZi00NTA1LWIwZWYtMDc0MzhjOWNlYjcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UY98_CR5,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "The Lamberts 10 years after the last installment, as Dalton begins college.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Patrick Wilson"
+				],
+				"actors": [
+					"Ty Simpkins",
+					"Patrick Wilson",
+					"Rose Byrne",
+					"Hiam Abbass"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 49,
+			"link": "https://www.imdb.com/title/tt3915174/?ref_=adv_li_tt",
+			"title": "Puss in Boots: The Last Wish",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 102,
+			"genre": [
+				[
+					"Animation",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG",
+			"plot": "When Puss in Boots discovers that his passion for adventure has taken its toll and he has burned through eight of his nine lives, he launches an epic journey to restore them by finding the mythical Last Wish.",
+			"star_rating": 7.9,
+			"metascore": 73,
+			"participated": {
+				"director": [
+					"Joel Crawford",
+					"Januel Mercado"
+				],
+				"actors": [
+					"Antonio Banderas",
+					"Salma Hayek",
+					"Harvey Guillén",
+					"Florence Pugh"
+				]
+			},
+			"statistics": [
+				"121,361",
+				"$168.46M"
+			]
+		},
+		{
+			"id": 50,
+			"link": "https://www.imdb.com/title/tt15325794/?ref_=adv_li_tt",
+			"title": "Fall",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNGI3MWYwYjItNzZhYi00ZWIzLTkyMzYtN2JmNjg3ODg1NTg4XkEyXkFqcGdeQXVyMTMwMDA5ODU3._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 107,
+			"genre": [
+				[
+					"Thriller"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Best friends Becky and Hunter find themselves at the top of a 2,000-foot radio tower.",
+			"star_rating": 6.4,
+			"metascore": 62,
+			"participated": {
+				"director": [
+					"Scott Mann"
+				],
+				"actors": [
+					"Grace Caroline Currey",
+					"Virginia Gardner",
+					"Mason Gooding",
+					"Jeffrey Dean Morgan"
+				]
+			},
+			"statistics": [
+				"76,666"
+			]
+		},
+		{
+			"id": 51,
+			"link": "https://www.imdb.com/title/tt1001520/?ref_=adv_li_tt",
+			"title": "Last Voyage of the Demeter",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTljMzRkNDItNjYxYS00ODA4LThiZjYtMjI0MTFjODlmMGJmXkEyXkFqcGdeQXVyNzU0NzQxNTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Horror "
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Based on a single chapter, the Captain's Log, from Bram Stoker's classic 1897 novel Dracula, the story is set aboard the Russian schooner Demeter, which was chartered to carry private cargo... See full summary »",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"André Øvredal"
+				],
+				"actors": [
+					"Corey Hawkins",
+					"Aisling Franciosi",
+					"Liam Cunningham",
+					"David Dastmalchian"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 52,
+			"link": "https://www.imdb.com/title/tt15398776/?ref_=adv_li_tt",
+			"title": "Oppenheimer",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZWI2YWU2ODItYzBmNi00Yjc2LWJlMDQtMGJlMmUxM2M3NzMxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Biography",
+					"Drama",
+					"History "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Christopher Nolan"
+				],
+				"actors": [
+					"Cillian Murphy",
+					"Emily Blunt",
+					"Matt Damon",
+					"Robert Downey Jr."
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 53,
+			"link": "https://www.imdb.com/title/tt7322224/?ref_=adv_li_tt",
+			"title": "Triangle of Sadness",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNDRiZjc0ZDMtMjhlYi00ZjAzLTg0MDQtZDI2NGEyYTBlN2M2XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 147,
+			"genre": [
+				[
+					"Comedy",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A fashion model celebrity couple join an eventful cruise for the super-rich.",
+			"star_rating": 7.3,
+			"metascore": 63,
+			"participated": {
+				"director": [
+					"Ruben Östlund"
+				],
+				"actors": [
+					"Thobias Thorwid",
+					"Harris Dickinson",
+					"Charlbi Dean",
+					"Jiannis Moustos"
+				]
+			},
+			"statistics": [
+				"127,122"
+			]
+		},
+		{
+			"id": 54,
+			"link": "https://www.imdb.com/title/tt12672536/?ref_=adv_li_tt",
+			"title": "The Three Musketeers: D'Artagnan",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZGM1NjE5MzQtMmNiYy00ZWIxLWFiMGUtMzE1N2EzNzY0MjY0XkEyXkFqcGdeQXVyMTUzMTUxMzk1._V1_UY98_CR2,0,67,98_AL_.jpg",
+			"runtime": 121,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"History"
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "D'Artagnan arrives in Paris trying to find his attackers after being left for dead, which leads him to a real war where the future of France is at stake. He aligns himself with Athos, Porthos and Aramis, three musketeers of the King.",
+			"star_rating": 7.1,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Martin Bourboulon"
+				],
+				"actors": [
+					"François Civil",
+					"Vincent Cassel",
+					"Romain Duris",
+					"Pio Marmaï"
+				]
+			},
+			"statistics": [
+				"2,675"
+			]
+		},
+		{
+			"id": 55,
+			"link": "https://www.imdb.com/title/tt11813216/?ref_=adv_li_tt",
+			"title": "The Banshees of Inisherin",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 114,
+			"genre": [
+				[
+					"Comedy",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
+			"star_rating": 7.7,
+			"metascore": 87,
+			"participated": {
+				"director": [
+					"Martin McDonagh"
+				],
+				"actors": [
+					"Colin Farrell",
+					"Brendan Gleeson",
+					"Kerry Condon",
+					"Pat Shortt"
+				]
+			},
+			"statistics": [
+				"200,163"
+			]
+		},
+		{
+			"id": 56,
+			"link": "https://www.imdb.com/title/tt14846026/?ref_=adv_li_tt",
+			"title": "Sisu",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMWYwMzNkOWEtNjA3YS00YjE5LTlkMjYtMmRjMjExNjA1NDM0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 91,
+			"genre": [
+				[
+					"Action",
+					"War"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "When an ex-soldier who discovers gold in the Lapland wilderness tries to take the loot into the city, Nazi soldiers led by a brutal SS officer battle him.",
+			"star_rating": 7.4,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Jalmari Helander"
+				],
+				"actors": [
+					"Jorma Tommila",
+					"Aksel Hennie",
+					"Jack Doolan",
+					"Mimosa Willamo"
+				]
+			},
+			"statistics": [
+				"2,114"
+			]
+		},
+		{
+			"id": 57,
+			"link": "https://www.imdb.com/title/tt10365998/?ref_=adv_li_tt",
+			"title": "Infinity Pool",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDQxZTY0ZDItY2Y0Yy00OTIzLTkwYTgtNmNkODhiYTk4MzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 117,
+			"genre": [
+				[
+					"Crime",
+					"Horror",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "James and Em Foster are enjoying an all-inclusive beach vacation in the fictional island of La Tolqa, when a fatal accident exposes the resort's perverse subculture of hedonistic tourism, reckless violence and surreal horrors.",
+			"star_rating": 6.1,
+			"metascore": 72,
+			"participated": {
+				"director": [
+					"Brandon Cronenberg"
+				],
+				"actors": [
+					"Alexander Skarsgård",
+					"Mia Goth",
+					"Cleopatra Coleman",
+					"Dunja Sepcic"
+				]
+			},
+			"statistics": [
+				"27,094"
+			]
+		},
+		{
+			"id": 58,
+			"link": "https://www.imdb.com/title/tt11291274/?ref_=adv_li_tt",
+			"title": "The Unbearable Weight of Massive Talent",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNDM2ODNiMWItOWRkNS00ODE3LWE2OGYtNTZkMDJkOWI1ODMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 107,
+			"genre": [
+				[
+					"Action",
+					"Comedy",
+					"Crime"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Moviestar Nick Cage is channeling his iconic characters as he's caught between a superfan and a CIA agent.",
+			"star_rating": 7,
+			"metascore": 68,
+			"participated": {
+				"director": [
+					"Tom Gormican"
+				],
+				"actors": [
+					"Nicolas Cage",
+					"Pedro Pascal",
+					"Tiffany Haddish",
+					"Sharon Horgan"
+				]
+			},
+			"statistics": [
+				"119,313"
+			]
+		},
+		{
+			"id": 59,
+			"link": "https://www.imdb.com/title/tt14923260/?ref_=adv_li_tt",
+			"title": "Chupa",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BM2I1YWRlMmItZDlmNy00YTM4LThmMDQtM2IwMzE2ZmZjZTllXkEyXkFqcGdeQXVyMTE5OTM1MjU3._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 95,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG",
+			"plot": "While visiting family in Mexico, teenage Alex gains an unlikely companion when he discovers a young chupacabra hiding in his grandpa's shed. To save the mythical creature, Alex and his cousins must embark on the adventure of a lifetime.",
+			"star_rating": 5.5,
+			"metascore": 48,
+			"participated": {
+				"director": [
+					"Jonás Cuarón"
+				],
+				"actors": [
+					"Demián Bichir",
+					"Christian Slater",
+					"Evan Whitten",
+					"Ashley Ciarra"
+				]
+			},
+			"statistics": [
+				"4,635"
+			]
+		},
+		{
+			"id": 60,
+			"link": "https://www.imdb.com/title/tt2316548/?ref_=adv_li_tt",
+			"title": "Beautiful Disaster",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BY2E5MzIxNmYtOWY1OC00ZDVmLWIxZDctOWFhZjljOWMzZjcxXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 105,
+			"genre": [
+				[
+					"Drama",
+					"Romance"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "College freshman, Abby, tries to distance herself from her dark past while resisting her attraction to bad boy, Travis.",
+			"star_rating": 5.3,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Roger Kumble"
+				],
+				"actors": [
+					"Virginia Gardner",
+					"Dylan Sprouse",
+					"Autumn Reeser",
+					"Michael Cudlitz"
+				]
+			},
+			"statistics": [
+				"888"
+			]
+		},
+		{
+			"id": 61,
+			"link": "https://www.imdb.com/title/tt1877830/?ref_=adv_li_tt",
+			"title": "The Batman",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 176,
+			"genre": [
+				[
+					"Action",
+					"Crime",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement.",
+			"star_rating": 7.8,
+			"metascore": 72,
+			"participated": {
+				"director": [
+					"Matt Reeves"
+				],
+				"actors": [
+					"Robert Pattinson",
+					"Zoë Kravitz",
+					"Jeffrey Wright",
+					"Colin Farrell"
+				]
+			},
+			"statistics": [
+				"693,435",
+				"$369.35M"
+			]
+		},
+		{
+			"id": 62,
+			"link": "https://www.imdb.com/title/tt14097180/?ref_=adv_li_tt",
+			"title": "Somewhere in Queens",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BZWQ2MDMxNjgtYjNjYi00OTZjLThkMWYtYzRmNzM2YWRmMmRlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 106,
+			"genre": [
+				[
+					"Comedy",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Leo and Angela Russo live a simple life in Queens, surrounded by their overbearing Italian-American family. When their son 'Sticks' finds success on his high-school basketball team, Leo tears the family apart trying to make it happen.",
+			"star_rating": 7.7,
+			"metascore": 61,
+			"participated": {
+				"director": [
+					"Ray Romano"
+				],
+				"actors": [
+					"Ray Romano",
+					"Laurie Metcalf",
+					"Jennifer Esposito",
+					"Jacob Ward"
+				]
+			},
+			"statistics": [
+				"320"
+			]
+		},
+		{
+			"id": 63,
+			"link": "https://www.imdb.com/title/tt15679400/?ref_=adv_li_tt",
+			"title": "Knock at the Cabin",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDA0MzcxZTgtMTAzZC00MGJkLTg3YzItZjMzNjkwOTVlODNlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 100,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "While vacationing, a girl and her parents are taken hostage by armed strangers who demand that the family make a choice to avert the apocalypse.",
+			"star_rating": 6.1,
+			"metascore": 63,
+			"participated": {
+				"director": [
+					"M. Night Shyamalan"
+				],
+				"actors": [
+					"Dave Bautista",
+					"Jonathan Groff",
+					"Ben Aldridge",
+					"Nikki Amuka-Bird"
+				]
+			},
+			"statistics": [
+				"67,644"
+			]
+		},
+		{
+			"id": 64,
+			"link": "https://www.imdb.com/title/tt13923456/?ref_=adv_li_tt",
+			"title": "Mafia Mamma",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNDg0YmQ0NDMtNzdmYi00OTA5LWFjZDEtMWQ5NTQ0NjM4YTRlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 101,
+			"genre": [
+				[
+					"Action",
+					"Comedy",
+					"Crime"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "An American mom inherits her grandfather's mafia empire in Italy. Guided by the firm's consigliere, she hilariously defies everyone's expectations as the new head of the family business.",
+			"star_rating": 5.6,
+			"metascore": 43,
+			"participated": {
+				"director": [
+					"Catherine Hardwicke"
+				],
+				"actors": [
+					"Toni Collette",
+					"Monica Bellucci",
+					"Sophia Nomvete",
+					"Alessandro Bressanello"
+				]
+			},
+			"statistics": [
+				"952"
+			]
+		},
+		{
+			"id": 65,
+			"link": "https://www.imdb.com/title/tt6146586/?ref_=adv_li_tt",
+			"title": "John Wick: Chapter 3 - Parabellum",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 130,
+			"genre": [
+				[
+					"Action",
+					"Crime",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "John Wick is on the run after killing a member of the international assassins' guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
+			"star_rating": 7.4,
+			"metascore": 73,
+			"participated": {
+				"director": [
+					"Chad Stahelski"
+				],
+				"actors": [
+					"Keanu Reeves",
+					"Halle Berry",
+					"Ian McShane",
+					"Laurence Fishburne"
+				]
+			},
+			"statistics": [
+				"382,634",
+				"$171.02M"
+			]
+		},
+		{
+			"id": 66,
+			"link": "https://www.imdb.com/title/tt8760708/?ref_=adv_li_tt",
+			"title": "M3GAN",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMDk4MTdhYzEtODk3OS00ZDBjLWFhNTQtMDI2ODdjNzQzZTA3XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 102,
+			"genre": [
+				[
+					"Horror",
+					"Sci-Fi",
+					"Thriller"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A robotics engineer at a toy company builds a life-like doll that begins to take on a life of its own.",
+			"star_rating": 6.4,
+			"metascore": 72,
+			"participated": {
+				"director": [
+					"Gerard Johnstone"
+				],
+				"actors": [
+					"Allison Williams",
+					"Violet McGraw",
+					"Ronny Chieng",
+					"Amie Donald"
+				]
+			},
+			"statistics": [
+				"96,155",
+				"$93.88M"
+			]
+		},
+		{
+			"id": 67,
+			"link": "https://www.imdb.com/title/tt12758486/?ref_=adv_li_tt",
+			"title": "Chevalier",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNDU5OTBhNzEtYjllNS00Y2RkLWEzYTgtOTRmMGZhOTYyYmMwXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 108,
+			"genre": [
+				[
+					"Biography",
+					"Drama",
+					"History"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Based on the true story of composer Joseph Bologne, Chevalier de Saint-Georges, the illegitimate son of an African slave and a French plantation owner, who rises to heights in French society as a composer before an ill-fated love affair.",
+			"star_rating": 6.7,
+			"metascore": 67,
+			"participated": {
+				"director": [
+					"Stephen Williams"
+				],
+				"actors": [
+					"Kelvin Harrison Jr.",
+					"Samara Weaving",
+					"Lucy Boynton",
+					"Ronke Adekoluejo"
+				]
+			},
+			"statistics": [
+				"883"
+			]
+		},
+		{
+			"id": 68,
+			"link": "https://www.imdb.com/title/tt19623240/?ref_=adv_li_tt",
+			"title": "Winnie the Pooh: Blood and Honey",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDUwNDY1M2QtYmI2Zi00NmFmLTkzNzMtOTg4ODgxYmY5N2I2XkEyXkFqcGdeQXVyOTQzOTE5NTY@._V1_UY98_CR1,0,67,98_AL_.jpg",
+			"runtime": 84,
+			"genre": [
+				[
+					"Horror"
+				]
+			],
+			"movie_rating": "Not Rated",
+			"plot": "After Christopher Robin abandons them for college, Pooh and Piglet embark on a bloody rampage as they search for a new source of food.",
+			"star_rating": 3.1,
+			"metascore": 16,
+			"participated": {
+				"director": [
+					"Rhys Frake-Waterfield"
+				],
+				"actors": [
+					"Nikolai Leon",
+					"Maria Taylor",
+					"Natasha Rose Mills",
+					"Amber Doig-Thorne"
+				]
+			},
+			"statistics": [
+				"15,267"
+			]
+		},
+		{
+			"id": 69,
+			"link": "https://www.imdb.com/title/tt15474916/?ref_=adv_li_tt",
+			"title": "Smile",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BZjE2ZWIwMWEtNGFlMy00ZjYzLWEzOWEtYzQ0MDAwZDRhYzNjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 115,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "After witnessing a bizarre, traumatic incident involving a patient, a psychiatrist becomes increasingly convinced she is being threatened by an uncanny entity.",
+			"star_rating": 6.5,
+			"metascore": 68,
+			"participated": {
+				"director": [
+					"Parker Finn"
+				],
+				"actors": [
+					"Sosie Bacon",
+					"Jessie T. Usher",
+					"Kyle Gallner",
+					"Robin Weigert"
+				]
+			},
+			"statistics": [
+				"122,246"
+			]
+		},
+		{
+			"id": 70,
+			"link": "https://www.imdb.com/title/tt0816692/?ref_=adv_li_tt",
+			"title": "Interstellar",
+			"year": 2014,
+			"img": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 169,
+			"genre": [
+				[
+					"Adventure",
+					"Drama",
+					"Sci-Fi"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+			"star_rating": 8.6,
+			"metascore": 74,
+			"participated": {
+				"director": [
+					"Christopher Nolan"
+				],
+				"actors": [
+					"Matthew McConaughey",
+					"Anne Hathaway",
+					"Jessica Chastain",
+					"Mackenzie Foy"
+				]
+			},
+			"statistics": [
+				"1,895,239",
+				"$188.02M"
+			]
+		},
+		{
+			"id": 71,
+			"link": "https://www.imdb.com/title/tt10098448/?ref_=adv_li_tt",
+			"title": "Jesus Revolution",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZjQ4M2JiMTEtNDhiMi00OWM1LTkwMWEtODdjYTQxNWQyOTFiXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 120,
+			"genre": [
+				[
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "The true story of a national spiritual awakening in the early 1970s and its origins within a community of teenage hippies in Southern California.",
+			"star_rating": 7.2,
+			"metascore": 46,
+			"participated": {
+				"director": [
+					"Jon Erwin",
+					"Brent McCorkle"
+				],
+				"actors": [
+					"Joel Courtney",
+					"Jonathan Roumie",
+					"Kimberly Williams-Paisley",
+					"Anna Grace Barlow"
+				]
+			},
+			"statistics": [
+				"6,445"
+			]
+		},
+		{
+			"id": 72,
+			"link": "https://www.imdb.com/title/tt11820950/?ref_=adv_li_tt",
+			"title": "The Portable Door",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYjY0ZmZjNDUtN2VlYi00MmI5LThhMzAtZjcyOTQ1Nzg2NDQxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 116,
+			"genre": [
+				[
+					"Fantasy"
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "Paul Carpenter is an intern at a mysterious London firm with unconventional employers, including a CEO who wants to disrupt the ancient magical world with modern corporate practices.",
+			"star_rating": 6,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Jeffrey Walker"
+				],
+				"actors": [
+					"Christoph Waltz",
+					"Patrick Gibson",
+					"Damon Herriman",
+					"Sophie Wilde"
+				]
+			},
+			"statistics": [
+				"3,272"
+			]
+		},
+		{
+			"id": 73,
+			"link": "https://www.imdb.com/title/tt13929998/?ref_=adv_li_tt",
+			"title": "On a Wing and a Prayer",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDI1ODIzZWItNjI4Yy00YWQwLTg4YWQtOGMxNWIxMGE5NmIyXkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 102,
+			"genre": [
+				[
+					"Drama"
+				]
+			],
+			"movie_rating": "PG",
+			"plot": "After their pilot dies unexpectedly mid-flight, Doug White (Dennis Quaid) has to safely land the plane and save his entire family from insurmountable danger.",
+			"star_rating": 5.5,
+			"metascore": 19,
+			"participated": {
+				"director": [
+					"Sean McNamara"
+				],
+				"actors": [
+					"Dennis Quaid",
+					"Heather Graham",
+					"Jesse Metcalfe",
+					"Tonglan Qiu"
+				]
+			},
+			"statistics": [
+				"2,645"
+			]
+		},
+		{
+			"id": 74,
+			"link": "https://www.imdb.com/title/tt8772262/?ref_=adv_li_tt",
+			"title": "Midsommar",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 148,
+			"genre": [
+				[
+					"Drama",
+					"Horror",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+			"star_rating": 7.1,
+			"metascore": 72,
+			"participated": {
+				"director": [
+					"Ari Aster"
+				],
+				"actors": [
+					"Florence Pugh",
+					"Jack Reynor",
+					"Vilhelm Blomgren",
+					"William Jackson Harper"
+				]
+			},
+			"statistics": [
+				"346,213",
+				"$27.33M"
+			]
+		},
+		{
+			"id": 75,
+			"link": "https://www.imdb.com/title/tt0241527/?ref_=adv_li_tt",
+			"title": "Harry Potter and the Sorcerer's Stone",
+			"year": 2001,
+			"img": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 152,
+			"genre": [
+				[
+					"Adventure",
+					"Family",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG",
+			"plot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+			"star_rating": 7.6,
+			"metascore": 65,
+			"participated": {
+				"director": [
+					"Chris Columbus"
+				],
+				"actors": [
+					"Daniel Radcliffe",
+					"Rupert Grint",
+					"Richard Harris",
+					"Maggie Smith"
+				]
+			},
+			"statistics": [
+				"805,415",
+				"$317.58M"
+			]
+		},
+		{
+			"id": 76,
+			"link": "https://www.imdb.com/title/tt1462764/?ref_=adv_li_tt",
+			"title": "Indiana Jones and the Dial of Destiny",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYzM4MjQ0MzktNTMwNi00MDdjLTg3YTctY2M4OWRjNzA2N2E1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 142,
+			"genre": [
+				[
+					"Action",
+					"Adventure "
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "The plot is unknown at this time.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"James Mangold"
+				],
+				"actors": [
+					"Harrison Ford",
+					"Mads Mikkelsen",
+					"Boyd Holbrook",
+					"Phoebe Waller-Bridge"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 77,
+			"link": "https://www.imdb.com/title/tt9185206/?ref_=adv_li_tt",
+			"title": "Are You There God? It's Me, Margaret.",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNTBhNmM2ODgtNDI4My00MWM5LWIzYmYtYzQzNWViNzg5MmVlXkEyXkFqcGdeQXVyOTIxNTAyMzU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 105,
+			"genre": [
+				[
+					"Comedy",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "When her family moves from the city to the suburbs, 11-year-old Margaret navigates new friends, feelings, and the beginning of adolescence.",
+			"star_rating": 7.6,
+			"metascore": 85,
+			"participated": {
+				"director": [
+					"Kelly Fremon Craig"
+				],
+				"actors": [
+					"Abby Ryder Fortson",
+					"Rachel McAdams",
+					"Kathy Bates",
+					"Benny Safdie"
+				]
+			},
+			"statistics": [
+				"101"
+			]
+		},
+		{
+			"id": 78,
+			"link": "https://www.imdb.com/title/tt6436620/?ref_=adv_li_tt",
+			"title": "White Men Can't Jump",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZTM0OWMxODctNGJiYy00ZDczLWJkNTYtOTljNTUwNzQ3ZTRjXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Comedy",
+					"Drama",
+					"Sport "
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A remake of the 1992 film about a pair of basketball hustlers who team up to earn extra cash.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Calmatic"
+				],
+				"actors": [
+					"Sinqua Walls",
+					"Jack Harlow",
+					"Lance Reddick",
+					"Teyana Taylor"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 79,
+			"link": "https://www.imdb.com/title/tt4425200/?ref_=adv_li_tt",
+			"title": "John Wick: Chapter 2",
+			"year": 2017,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjE2NDkxNTY2M15BMl5BanBnXkFtZTgwMDc2NzE0MTI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 122,
+			"genre": [
+				[
+					"Action",
+					"Crime",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.",
+			"star_rating": 7.4,
+			"metascore": 75,
+			"participated": {
+				"director": [
+					"Chad Stahelski"
+				],
+				"actors": [
+					"Keanu Reeves",
+					"Riccardo Scamarcio",
+					"Ian McShane",
+					"Ruby Rose"
+				]
+			},
+			"statistics": [
+				"469,978",
+				"$92.03M"
+			]
+		},
+		{
+			"id": 80,
+			"link": "https://www.imdb.com/title/tt12427158/?ref_=adv_li_tt",
+			"title": "A Thousand and One",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYTM4Y2FhODgtMjU2Yy00NzNjLWI3MTYtM2I3ZTRmYzczYzc0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 117,
+			"genre": [
+				[
+					"Crime",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "After unapologetic and fiercely loyal Inez kidnaps her son Terry from the foster care system, mother and son set out to reclaim their sense of home, identity, and stability, in a rapidly changing New York City.",
+			"star_rating": 7.1,
+			"metascore": 81,
+			"participated": {
+				"director": [
+					"A.V. Rockwell"
+				],
+				"actors": [
+					"Teyana Taylor",
+					"Aaron Kingsley Adetola",
+					"Aven Courtney",
+					"Josiah Cross"
+				]
+			},
+			"statistics": [
+				"1,590"
+			]
+		},
+		{
+			"id": 81,
+			"link": "https://www.imdb.com/title/tt11564570/?ref_=adv_li_tt",
+			"title": "Glass Onion",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 139,
+			"genre": [
+				[
+					"Comedy",
+					"Crime",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Famed Southern detective Benoit Blanc travels to Greece for his latest case.",
+			"star_rating": 7.1,
+			"metascore": 81,
+			"participated": {
+				"director": [
+					"Rian Johnson"
+				],
+				"actors": [
+					"Daniel Craig",
+					"Edward Norton",
+					"Kate Hudson",
+					"Dave Bautista"
+				]
+			},
+			"statistics": [
+				"383,514"
+			]
+		},
+		{
+			"id": 82,
+			"link": "https://www.imdb.com/title/tt1618434/?ref_=adv_li_tt",
+			"title": "Murder Mystery",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 97,
+			"genre": [
+				[
+					"Action",
+					"Comedy",
+					"Crime"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A New York cop and his wife go on a European vacation to reinvigorate the spark in their marriage, but end up getting framed and on the run for the death of an elderly billionaire.",
+			"star_rating": 6,
+			"metascore": 38,
+			"participated": {
+				"director": [
+					"Kyle Newacheck"
+				],
+				"actors": [
+					"Adam Sandler",
+					"Jennifer Aniston",
+					"Luke Evans",
+					"Terence Stamp"
+				]
+			},
+			"statistics": [
+				"152,228"
+			]
+		},
+		{
+			"id": 83,
+			"link": "https://www.imdb.com/title/tt19637278/?ref_=adv_li_tt",
+			"title": "The Tutor",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZGRiYWVhZTAtMDI5YS00OWI0LThjNWItYWU4NmI1YzM1ODkzXkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 92,
+			"genre": [
+				[
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Follows a tutor who, after being assigned an unexpected task at a mansion, finds himself struggling with the obsessions of his student, who threatens to expose his darkest secrets.",
+			"star_rating": 5.2,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Jordan Ross"
+				],
+				"actors": [
+					"Garrett Hedlund",
+					"Victoria Justice",
+					"Noah Schnapp",
+					"Jonny Weston"
+				]
+			},
+			"statistics": [
+				"1,347"
+			]
+		},
+		{
+			"id": 84,
+			"link": "https://www.imdb.com/title/tt15783426/?ref_=adv_li_tt",
+			"title": "One Day as a Lion",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDY2MmU3MGUtYmM1ZS00NjFiLWIzYTQtMDk5Mzg3NWI0NjAyXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 87,
+			"genre": [
+				[
+					"Action",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Jackie Powers will stop at nothing to prevent his son from following him into a life of crime. With his mob employer in pursuit, a chance encounter at a roadside diner charts a new path.",
+			"star_rating": 5.3,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"John Swab"
+				],
+				"actors": [
+					"Frank Grillo",
+					"J.K. Simmons",
+					"Virginia Madsen",
+					"Scott Caan"
+				]
+			},
+			"statistics": [
+				"741"
+			]
+		},
+		{
+			"id": 85,
+			"link": "https://www.imdb.com/title/tt7131622/?ref_=adv_li_tt",
+			"title": "Once Upon a Time in Hollywood",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 161,
+			"genre": [
+				[
+					"Comedy",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+			"star_rating": 7.6,
+			"metascore": 83,
+			"participated": {
+				"director": [
+					"Quentin Tarantino"
+				],
+				"actors": [
+					"Leonardo DiCaprio",
+					"Brad Pitt",
+					"Margot Robbie",
+					"Emile Hirsch"
+				]
+			},
+			"statistics": [
+				"772,285",
+				"$142.50M"
+			]
+		},
+		{
+			"id": 86,
+			"link": "https://www.imdb.com/title/tt1160419/?ref_=adv_li_tt",
+			"title": "Dune",
+			"year": 2021,
+			"img": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 155,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future.",
+			"star_rating": 8,
+			"metascore": 74,
+			"participated": {
+				"director": [
+					"Denis Villeneuve"
+				],
+				"actors": [
+					"Timothée Chalamet",
+					"Rebecca Ferguson",
+					"Zendaya",
+					"Oscar Isaac"
+				]
+			},
+			"statistics": [
+				"665,570",
+				"$108.33M"
+			]
+		},
+		{
+			"id": 87,
+			"link": "https://www.imdb.com/title/tt18079362/?ref_=adv_li_tt",
+			"title": "80 for Brady",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzY4MzQ1MTgtNGZiYS00Y2M5LWJmODUtYzIzNWFlOGZjMjk5XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 98,
+			"genre": [
+				[
+					"Comedy",
+					"Drama",
+					"Sport"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A group of friends made it their life-long mission to go to the Super Bowl and meet NFL superstar Tom Brady.",
+			"star_rating": 5.8,
+			"metascore": 52,
+			"participated": {
+				"director": [
+					"Kyle Marvin"
+				],
+				"actors": [
+					"Lily Tomlin",
+					"Jane Fonda",
+					"Rita Moreno",
+					"Sally Field"
+				]
+			},
+			"statistics": [
+				"5,931"
+			]
+		},
+		{
+			"id": 88,
+			"link": "https://www.imdb.com/title/tt0468569/?ref_=adv_li_tt",
+			"title": "The Dark Knight",
+			"year": 2008,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 152,
+			"genre": [
+				[
+					"Action",
+					"Crime",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+			"star_rating": 9,
+			"metascore": 84,
+			"participated": {
+				"director": [
+					"Christopher Nolan"
+				],
+				"actors": [
+					"Christian Bale",
+					"Heath Ledger",
+					"Aaron Eckhart",
+					"Michael Caine"
+				]
+			},
+			"statistics": [
+				"2,705,150",
+				"$534.86M"
+			]
+		},
+		{
+			"id": 89,
+			"link": "https://www.imdb.com/title/tt0144084/?ref_=adv_li_tt",
+			"title": "American Psycho",
+			"year": 2000,
+			"img": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 102,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Horror"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+			"star_rating": 7.6,
+			"metascore": 64,
+			"participated": {
+				"director": [
+					"Mary Harron"
+				],
+				"actors": [
+					"Christian Bale",
+					"Justin Theroux",
+					"Josh Lucas",
+					"Bill Sage"
+				]
+			},
+			"statistics": [
+				"650,461",
+				"$15.07M"
+			]
+		},
+		{
+			"id": 90,
+			"link": "https://www.imdb.com/title/tt0993846/?ref_=adv_li_tt",
+			"title": "The Wolf of Wall Street",
+			"year": 2013,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 180,
+			"genre": [
+				[
+					"Biography",
+					"Comedy",
+					"Crime"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+			"star_rating": 8.2,
+			"metascore": 75,
+			"participated": {
+				"director": [
+					"Martin Scorsese"
+				],
+				"actors": [
+					"Leonardo DiCaprio",
+					"Jonah Hill",
+					"Margot Robbie",
+					"Matthew McConaughey"
+				]
+			},
+			"statistics": [
+				"1,453,517",
+				"$116.90M"
+			]
+		},
+		{
+			"id": 91,
+			"link": "https://www.imdb.com/title/tt2560078/?ref_=adv_li_tt",
+			"title": "Boston Strangler",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BN2FmYmM1ODctNjkzNC00MzcyLTkyOWYtZmZjNjY2ZmU3MmI3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 112,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"History"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Loretta McLaughlin was the reporter who first connected the murders and broke the story of the Boston Strangler. She and Jean Cole challenged the sexism of the early 1960s to report on the city's most notorious serial killer.",
+			"star_rating": 6.5,
+			"metascore": 58,
+			"participated": {
+				"director": [
+					"Matt Ruskin"
+				],
+				"actors": [
+					"Keira Knightley",
+					"Carrie Coon",
+					"Chris Cooper",
+					"Alessandro Nivola"
+				]
+			},
+			"statistics": [
+				"20,503"
+			]
+		},
+		{
+			"id": 92,
+			"link": "https://www.imdb.com/title/tt19770238/?ref_=adv_li_tt",
+			"title": "Aftersun",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTM3OTU0ZGUtNzYwYy00ODU3LWI3YjgtOWZlODliMmRiMWEzXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 102,
+			"genre": [
+				[
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...",
+			"star_rating": 7.7,
+			"metascore": 95,
+			"participated": {
+				"director": [
+					"Charlotte Wells"
+				],
+				"actors": [
+					"Paul Mescal",
+					"Frankie Corio",
+					"Celia Rowlson-Hall",
+					"Sally Messham"
+				]
+			},
+			"statistics": [
+				"58,817"
+			]
+		},
+		{
+			"id": 93,
+			"link": "https://www.imdb.com/title/tt6079516/?ref_=adv_li_tt",
+			"title": "I See You",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzVkOWM5YTEtMDdkNi00YjMzLWEzNWEtODEwN2IyZTc4Yjg2XkEyXkFqcGdeQXVyMjc5MTg0MzQ@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 98,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A policeman and his doctor wife have some marriage problems and the son blames the mother. For his job, the policeman investigates a case of a missing boy. The possible kidnapping looks like some cases from a few years ago.",
+			"star_rating": 6.8,
+			"metascore": 65,
+			"participated": {
+				"director": [
+					"Adam Randall"
+				],
+				"actors": [
+					"Helen Hunt",
+					"Jon Tenney",
+					"Owen Teague",
+					"Judah Lewis"
+				]
+			},
+			"statistics": [
+				"57,817"
+			]
+		},
+		{
+			"id": 94,
+			"link": "https://www.imdb.com/title/tt1375666/?ref_=adv_li_tt",
+			"title": "Inception",
+			"year": 2010,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 148,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Sci-Fi"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+			"star_rating": 8.8,
+			"metascore": 74,
+			"participated": {
+				"director": [
+					"Christopher Nolan"
+				],
+				"actors": [
+					"Leonardo DiCaprio",
+					"Joseph Gordon-Levitt",
+					"Elliot Page",
+					"Ken Watanabe"
+				]
+			},
+			"statistics": [
+				"2,401,087",
+				"$292.58M"
+			]
+		},
+		{
+			"id": 95,
+			"link": "https://www.imdb.com/title/tt2577172/?ref_=adv_li_tt",
+			"title": "Girl House",
+			"year": 2014,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTcyNzYyMTUwNF5BMl5BanBnXkFtZTgwMzIwMTIzNDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 101,
+			"genre": [
+				[
+					"Horror",
+					"Thriller"
+				]
+			],
+			"movie_rating": "Not Rated",
+			"plot": "A beautiful young college student moves into a house that streams video to an X-rated website. After a deranged fan hacks the site and finds out where she lives, she spends the night fighting for her life.",
+			"star_rating": 5.5,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Jon Knautz",
+					"Trevor Matthews"
+				],
+				"actors": [
+					"Ali Cobrin",
+					"Adam DiMarco",
+					"George Carroll",
+					"Alyson Bath"
+				]
+			},
+			"statistics": [
+				"9,316"
+			]
+		},
+		{
+			"id": 96,
+			"link": "https://www.imdb.com/title/tt5884796/?ref_=adv_li_tt",
+			"title": "Plane",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDc4MzVkNzYtZTRiZC00ODYwLWJjZmMtMDIyNjQ1M2M1OGM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 107,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A pilot finds himself caught in a war zone after he's forced to land his commercial aircraft during a terrible storm.",
+			"star_rating": 6.5,
+			"metascore": 62,
+			"participated": {
+				"director": [
+					"Jean-François Richet"
+				],
+				"actors": [
+					"Gerard Butler",
+					"Mike Colter",
+					"Tony Goldwyn",
+					"Yoson An"
+				]
+			},
+			"statistics": [
+				"48,206"
+			]
+		},
+		{
+			"id": 97,
+			"link": "https://www.imdb.com/title/tt9114286/?ref_=adv_li_tt",
+			"title": "Black Panther: Wakanda Forever",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNTM4NjIxNmEtYWE5NS00NDczLTkyNWQtYThhNmQyZGQzMjM0XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 161,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa.",
+			"star_rating": 6.7,
+			"metascore": 67,
+			"participated": {
+				"director": [
+					"Ryan Coogler"
+				],
+				"actors": [
+					"Letitia Wright",
+					"Lupita Nyong'o",
+					"Danai Gurira",
+					"Winston Duke"
+				]
+			},
+			"statistics": [
+				"259,390",
+				"$453.72M"
+			]
+		},
+		{
+			"id": 98,
+			"link": "https://www.imdb.com/title/tt1856101/?ref_=adv_li_tt",
+			"title": "Blade Runner 2049",
+			"year": 2017,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 164,
+			"genre": [
+				[
+					"Action",
+					"Drama",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+			"star_rating": 8,
+			"metascore": 81,
+			"participated": {
+				"director": [
+					"Denis Villeneuve"
+				],
+				"actors": [
+					"Harrison Ford",
+					"Ryan Gosling",
+					"Ana de Armas",
+					"Dave Bautista"
+				]
+			},
+			"statistics": [
+				"598,254",
+				"$92.05M"
+			]
+		},
+		{
+			"id": 99,
+			"link": "https://www.imdb.com/title/tt0439572/?ref_=adv_li_tt",
+			"title": "The Flash",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMDFhZTc3NWQtY2UyZS00OGYzLTgxNTUtYjYxMjZjMmEyMjcwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Barry Allen uses his super speed to change the past, but his attempt to save his family creates a world without super heroes, forcing him to race for his life in order to save the future.",
+			"star_rating": 7.7,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Andy Muschietti"
+				],
+				"actors": [
+					"Ben Affleck",
+					"Michael Shannon",
+					"Michael Keaton",
+					"Temuera Morrison"
+				]
+			},
+			"statistics": [
+				"896"
+			]
+		},
+		{
+			"id": 100,
+			"link": "https://www.imdb.com/title/tt0120737/?ref_=adv_li_tt",
+			"title": "The Lord of the Rings: The Fellowship of the Ring",
+			"year": 2001,
+			"img": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 178,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+			"star_rating": 8.8,
+			"metascore": 92,
+			"participated": {
+				"director": [
+					"Peter Jackson"
+				],
+				"actors": [
+					"Elijah Wood",
+					"Ian McKellen",
+					"Orlando Bloom",
+					"Sean Bean"
+				]
+			},
+			"statistics": [
+				"1,908,318",
+				"$315.54M"
+			]
+		},
+		{
+			"id": 101,
+			"link": "https://www.imdb.com/title/tt3774694/?ref_=adv_li_tt",
+			"title": "Love",
+			"year": 2015,
+			"img": "https://m.media-amazon.com/images/M/MV5BZGQxZTFlZDctZjcyMy00NzA1LWFkMDYtNzRmZTkwYTFhYTc3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 135,
+			"genre": [
+				[
+					"Drama",
+					"Romance"
+				]
+			],
+			"movie_rating": "TV-MA",
+			"plot": "Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.",
+			"star_rating": 6.1,
+			"metascore": 51,
+			"participated": {
+				"director": [
+					"Gaspar Noé"
+				],
+				"actors": [
+					"Aomi Muyock",
+					"Karl Glusman",
+					"Klara Kristin",
+					"Juan Saavedra"
+				]
+			},
+			"statistics": [
+				"61,945"
+			]
+		},
+		{
+			"id": 102,
+			"link": "https://www.imdb.com/title/tt1017460/?ref_=adv_li_tt",
+			"title": "Splice",
+			"year": 2009,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjEwODQ0MjI2OV5BMl5BanBnXkFtZTcwMTA4MjQ0Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 104,
+			"genre": [
+				[
+					"Horror",
+					"Sci-Fi"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Genetic engineers Clive Nicoli and Elsa Kast hope to achieve fame by successfully splicing together the DNA of different animals to create new hybrid animals for medical use.",
+			"star_rating": 5.8,
+			"metascore": 66,
+			"participated": {
+				"director": [
+					"Vincenzo Natali"
+				],
+				"actors": [
+					"Adrien Brody",
+					"Sarah Polley",
+					"Delphine Chanéac",
+					"Brandon McGibbon"
+				]
+			},
+			"statistics": [
+				"99,409",
+				"$17.00M"
+			]
+		},
+		{
+			"id": 103,
+			"link": "https://www.imdb.com/title/tt1655389/?ref_=adv_li_tt",
+			"title": "Blonde",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNDk2YTA1MGYtMGNjMi00YTJlLWI1YjItMjBjOGJlZGIwZmYzXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 167,
+			"genre": [
+				[
+					"Biography",
+					"Drama",
+					"Romance"
+				]
+			],
+			"movie_rating": "NC-17",
+			"plot": "The story of American actress Marilyn Monroe, covering her love and professional lives.",
+			"star_rating": 5.5,
+			"metascore": 50,
+			"participated": {
+				"director": [
+					"Andrew Dominik"
+				],
+				"actors": [
+					"Ana de Armas",
+					"Lily Fisher",
+					"Julianne Nicholson",
+					"Tygh Runyan"
+				]
+			},
+			"statistics": [
+				"65,099"
+			]
+		},
+		{
+			"id": 104,
+			"link": "https://www.imdb.com/title/tt10638522/?ref_=adv_li_tt",
+			"title": "Talk to Me",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMmY5ZGE4NmUtZWI4OS00ZWJmLWFjMzgtOWUyZjI4NDg3Y2E5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 94,
+			"genre": [
+				[
+					"Horror",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+			"star_rating": 7.4,
+			"metascore": 72,
+			"participated": {
+				"director": [
+					"Danny Philippou",
+					"Michael Philippou"
+				],
+				"actors": [
+					"Sophie Wilde",
+					"Joe Bird",
+					"Alexandra Jensen",
+					"Otis Dhanji"
+				]
+			},
+			"statistics": [
+				"394"
+			]
+		},
+		{
+			"id": 105,
+			"link": "https://www.imdb.com/title/tt10403420/?ref_=adv_li_tt",
+			"title": "Terrifier 2",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNTc5YWQ2MzAtM2E3Yi00MDUyLWFiYzctMzQ5NWVkMmQ0OTcxXkEyXkFqcGdeQXVyMTU2MDk3MDQz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 138,
+			"genre": [
+				[
+					"Horror"
+				]
+			],
+			"movie_rating": "Not Rated",
+			"plot": "After being resurrected by a sinister entity, Art the Clown returns to the timid town of Miles County where he targets a teenage girl and her younger brother on Halloween night.",
+			"star_rating": 6.2,
+			"metascore": 59,
+			"participated": {
+				"director": [
+					"Damien Leone"
+				],
+				"actors": [
+					"Lauren LaVera",
+					"David Howard Thornton",
+					"Elliott Fullam",
+					"Sarah Voigt"
+				]
+			},
+			"statistics": [
+				"33,256"
+			]
+		},
+		{
+			"id": 106,
+			"link": "https://www.imdb.com/title/tt3155298/?ref_=adv_li_tt",
+			"title": "Luther: The Fallen Sun",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZTQwMWFhYWMtZmE0OS00MmMxLWE3NzAtYjU1NzIyZjdmODNhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 129,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Brilliant but disgraced detective John Luther breaks out of prison to hunt down a sadistic serial killer who is terrorising London.",
+			"star_rating": 6.4,
+			"metascore": 53,
+			"participated": {
+				"director": [
+					"Jamie Payne"
+				],
+				"actors": [
+					"Idris Elba",
+					"Cynthia Erivo",
+					"Andy Serkis",
+					"Dermot Crowley"
+				]
+			},
+			"statistics": [
+				"47,326"
+			]
+		},
+		{
+			"id": 107,
+			"link": "https://www.imdb.com/title/tt15239678/?ref_=adv_li_tt",
+			"title": "Dune: Part Two",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BYjFkM2RhZjUtN2U0MC00NTMxLTk1MjktZDkwNjg3MjI0NmYxXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "A boy becomes the Messiah of nomads on a desert planet that has giant worms that protect a commodity called Spice. Spice changes people into travelers, mystics and madmen. What price will he pay to become the new ruler of their universe?",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Denis Villeneuve"
+				],
+				"actors": [
+					"Florence Pugh",
+					"Rebecca Ferguson",
+					"Timothée Chalamet",
+					"Zendaya"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 108,
+			"link": "https://www.imdb.com/title/tt0335345/?ref_=adv_li_tt",
+			"title": "The Passion of the Christ",
+			"year": 2004,
+			"img": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 127,
+			"genre": [
+				[
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Depicts the final twelve hours in the life of Jesus of Nazareth, on the day of his crucifixion in Jerusalem.",
+			"star_rating": 7.2,
+			"metascore": 47,
+			"participated": {
+				"director": [
+					"Mel Gibson"
+				],
+				"actors": [
+					"Jim Caviezel",
+					"Monica Bellucci",
+					"Maia Morgenstern",
+					"Christo Jivkov"
+				]
+			},
+			"statistics": [
+				"239,179",
+				"$370.78M"
+			]
+		},
+		{
+			"id": 109,
+			"link": "https://www.imdb.com/title/tt14208870/?ref_=adv_li_tt",
+			"title": "The Fabelmans",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BZGM1MzczNmQtMjBmYS00NTRhLWI0MzctNTFkZDc4OGUyODdjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 151,
+			"genre": [
+				[
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Growing up in post-World War II era Arizona, young Sammy Fabelman aspires to become a filmmaker as he reaches adolescence, but soon discovers a shattering family secret and explores how the power of films can help him see the truth.",
+			"star_rating": 7.6,
+			"metascore": 84,
+			"participated": {
+				"director": [
+					"Steven Spielberg"
+				],
+				"actors": [
+					"Michelle Williams",
+					"Gabriel LaBelle",
+					"Paul Dano",
+					"Judd Hirsch"
+				]
+			},
+			"statistics": [
+				"84,970"
+			]
+		},
+		{
+			"id": 110,
+			"link": "https://www.imdb.com/title/tt1135985/?ref_=adv_li_tt",
+			"title": "Sex Drive",
+			"year": 2008,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjE0MTcyMzg5M15BMl5BanBnXkFtZTcwMDUyOTA4MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 109,
+			"genre": [
+				[
+					"Comedy",
+					"Romance"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A high-school senior drives cross-country with his best friends to hook up with a babe he met online.",
+			"star_rating": 6.5,
+			"metascore": 49,
+			"participated": {
+				"director": [
+					"Sean Anders"
+				],
+				"actors": [
+					"Josh Zuckerman",
+					"Clark Duke",
+					"Amanda Crew",
+					"James Marsden"
+				]
+			},
+			"statistics": [
+				"89,135",
+				"$8.40M"
+			]
+		},
+		{
+			"id": 111,
+			"link": "https://www.imdb.com/title/tt8946378/?ref_=adv_li_tt",
+			"title": "Knives Out",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 130,
+			"genre": [
+				[
+					"Comedy",
+					"Crime",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A detective investigates the death of the patriarch of an eccentric, combative family.",
+			"star_rating": 7.9,
+			"metascore": 82,
+			"participated": {
+				"director": [
+					"Rian Johnson"
+				],
+				"actors": [
+					"Daniel Craig",
+					"Chris Evans",
+					"Ana de Armas",
+					"Jamie Lee Curtis"
+				]
+			},
+			"statistics": [
+				"722,687",
+				"$165.36M"
+			]
+		},
+		{
+			"id": 112,
+			"link": "https://www.imdb.com/title/tt8367814/?ref_=adv_li_tt",
+			"title": "The Gentlemen",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTlkMmVmYjktYTc2NC00ZGZjLWEyOWUtMjc2MDMwMjQwOTA5XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 113,
+			"genre": [
+				[
+					"Action",
+					"Comedy",
+					"Crime"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+			"star_rating": 7.8,
+			"metascore": 51,
+			"participated": {
+				"director": [
+					"Guy Ritchie"
+				],
+				"actors": [
+					"Matthew McConaughey",
+					"Charlie Hunnam",
+					"Michelle Dockery",
+					"Jeremy Strong"
+				]
+			},
+			"statistics": [
+				"357,561",
+				"$36.47M"
+			]
+		},
+		{
+			"id": 113,
+			"link": "https://www.imdb.com/title/tt9411972/?ref_=adv_li_tt",
+			"title": "Where the Crawdads Sing",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTJmNGJmYTgtYjAxNy00YmMzLTk2YTYtMGIzMmUwNDMyMTY1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY98_CR5,0,67,98_AL_.jpg",
+			"runtime": 125,
+			"genre": [
+				[
+					"Drama",
+					"Mystery",
+					"Romance"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A woman who raised herself in the marshes of the Deep South becomes a suspect in the murder of a man with whom she was once involved.",
+			"star_rating": 7.2,
+			"metascore": 43,
+			"participated": {
+				"director": [
+					"Olivia Newman"
+				],
+				"actors": [
+					"Daisy Edgar-Jones",
+					"Taylor John Smith",
+					"Harris Dickinson",
+					"David Strathairn"
+				]
+			},
+			"statistics": [
+				"92,713",
+				"$90.23M"
+			]
+		},
+		{
+			"id": 114,
+			"link": "https://www.imdb.com/title/tt1649418/?ref_=adv_li_tt",
+			"title": "The Gray Man",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 122,
+			"genre": [
+				[
+					"Action",
+					"Thriller"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "When the CIA's most skilled operative, whose true identity is known to none, accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
+			"star_rating": 6.5,
+			"metascore": 49,
+			"participated": {
+				"director": [
+					"Anthony Russo",
+					"Joe Russo"
+				],
+				"actors": [
+					"Ryan Gosling",
+					"Chris Evans",
+					"Ana de Armas",
+					"Billy Bob Thornton"
+				]
+			},
+			"statistics": [
+				"214,300"
+			]
+		},
+		{
+			"id": 115,
+			"link": "https://www.imdb.com/title/tt14781036/?ref_=adv_li_tt",
+			"title": "Inside",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BOWU0MjdiMmQtMTQ2OC00YzY4LWEzN2ItOTE4NjIwNmJjMWZmXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 105,
+			"genre": [
+				[
+					"Drama",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Nemo, a high-end art thief, is trapped in a New York penthouse after his heist doesn't go as planned. Locked inside with nothing but priceless works of art, he must use all his cunning and ingenuity to survive.",
+			"star_rating": 5.5,
+			"metascore": 53,
+			"participated": {
+				"director": [
+					"Vasilis Katsoupis"
+				],
+				"actors": [
+					"Willem Dafoe",
+					"Gene Bervoets",
+					"Eliza Stuyck",
+					"Andrew Blumenthal"
+				]
+			},
+			"statistics": [
+				"6,941"
+			]
+		},
+		{
+			"id": 116,
+			"link": "https://www.imdb.com/title/tt14444726/?ref_=adv_li_tt",
+			"title": "Tár",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BM2I0ZDcyYzItMGEyNi00YWVhLTlmNTQtOWVlYjE1ZGVhNWM0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 158,
+			"genre": [
+				[
+					"Drama",
+					"Music"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Set in the international world of Western classical music, the film centers on Lydia Tár, widely considered one of the greatest living composer-conductors and the very first female director of a major German orchestra.",
+			"star_rating": 7.5,
+			"metascore": 92,
+			"participated": {
+				"director": [
+					"Todd Field"
+				],
+				"actors": [
+					"Cate Blanchett",
+					"Noémie Merlant",
+					"Nina Hoss",
+					"Sophie Kauer"
+				]
+			},
+			"statistics": [
+				"68,930"
+			]
+		},
+		{
+			"id": 117,
+			"link": "https://www.imdb.com/title/tt7784604/?ref_=adv_li_tt",
+			"title": "Hereditary",
+			"year": 2018,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 127,
+			"genre": [
+				[
+					"Drama",
+					"Horror",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A grieving family is haunted by tragic and disturbing occurrences.",
+			"star_rating": 7.3,
+			"metascore": 87,
+			"participated": {
+				"director": [
+					"Ari Aster"
+				],
+				"actors": [
+					"Toni Collette",
+					"Milly Shapiro",
+					"Gabriel Byrne",
+					"Alex Wolff"
+				]
+			},
+			"statistics": [
+				"337,389",
+				"$44.07M"
+			]
+		},
+		{
+			"id": 118,
+			"link": "https://www.imdb.com/title/tt0499549/?ref_=adv_li_tt",
+			"title": "Avatar",
+			"year": 2009,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 162,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+			"star_rating": 7.9,
+			"metascore": 83,
+			"participated": {
+				"director": [
+					"James Cameron"
+				],
+				"actors": [
+					"Sam Worthington",
+					"Zoe Saldana",
+					"Sigourney Weaver",
+					"Michelle Rodriguez"
+				]
+			},
+			"statistics": [
+				"1,337,930",
+				"$760.51M"
+			]
+		},
+		{
+			"id": 119,
+			"link": "https://www.imdb.com/title/tt18925334/?ref_=adv_li_tt",
+			"title": "Pearl",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BZTFkNmE5MjUtZDE1Yi00ZmQyLTk2YWUtN2EwODA1ZmNlOTA5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 103,
+			"genre": [
+				[
+					"Drama",
+					"Horror",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "In 1918, a young woman on the brink of madness pursues stardom in a desperate attempt to escape the drudgery, isolation and lovelessness of life on her parents' farm.",
+			"star_rating": 7,
+			"metascore": 76,
+			"participated": {
+				"director": [
+					"Ti West"
+				],
+				"actors": [
+					"Mia Goth",
+					"David Corenswet",
+					"Tandi Wright",
+					"Matthew Sunderland"
+				]
+			},
+			"statistics": [
+				"54,312"
+			]
+		},
+		{
+			"id": 120,
+			"link": "https://www.imdb.com/title/tt10872600/?ref_=adv_li_tt",
+			"title": "Spider-Man: No Way Home",
+			"year": 2021,
+			"img": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 148,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+			"star_rating": 8.2,
+			"metascore": 71,
+			"participated": {
+				"director": [
+					"Jon Watts"
+				],
+				"actors": [
+					"Tom Holland",
+					"Zendaya",
+					"Benedict Cumberbatch",
+					"Jacob Batalon"
+				]
+			},
+			"statistics": [
+				"788,048",
+				"$804.75M"
+			]
+		},
+		{
+			"id": 121,
+			"link": "https://www.imdb.com/title/tt9362722/?ref_=adv_li_tt",
+			"title": "Spider-Man: Across the Spider-Verse",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzQ1ODUzYjktMzRiMS00ODNiLWI4NzQtOTRiN2VlNTNmODFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Animation",
+					"Action",
+					"Adventure "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Joaquim Dos Santos",
+					"Kemp Powers",
+					"Justin K. Thompson"
+				],
+				"actors": [
+					"Shameik Moore",
+					"Hailee Steinfeld",
+					"Oscar Isaac",
+					"Jake Johnson"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 122,
+			"link": "https://www.imdb.com/title/tt0448115/?ref_=adv_li_tt",
+			"title": "Shazam!",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BOWZhZjE4NGQtODg5Ni00MjQ1LWJmMzAtNzQ2N2M1NzYzMDJkXkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 132,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy.",
+			"star_rating": 7,
+			"metascore": 71,
+			"participated": {
+				"director": [
+					"David F. Sandberg"
+				],
+				"actors": [
+					"Zachary Levi",
+					"Mark Strong",
+					"Asher Angel",
+					"Jack Dylan Grazer"
+				]
+			},
+			"statistics": [
+				"359,867",
+				"$140.37M"
+			]
+		},
+		{
+			"id": 123,
+			"link": "https://www.imdb.com/title/tt1549920/?ref_=adv_li_tt",
+			"title": "The Last Stand",
+			"year": 2013,
+			"img": "https://m.media-amazon.com/images/M/MV5BODc4NjI0OTYwNl5BMl5BanBnXkFtZTcwOTYwODQ3OA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 107,
+			"genre": [
+				[
+					"Action",
+					"Thriller",
+					"Western"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "The leader of a drug cartel busts out of a courthouse and speeds to the Mexican border, where the only thing in his path is a sheriff and his inexperienced staff.",
+			"star_rating": 6.3,
+			"metascore": 54,
+			"participated": {
+				"director": [
+					"Jee-woon Kim"
+				],
+				"actors": [
+					"Arnold Schwarzenegger",
+					"Forest Whitaker",
+					"Johnny Knoxville",
+					"Rodrigo Santoro"
+				]
+			},
+			"statistics": [
+				"141,809",
+				"$12.05M"
+			]
+		},
+		{
+			"id": 124,
+			"link": "https://www.imdb.com/title/tt5533370/?ref_=adv_li_tt",
+			"title": "Lamborghini: The Man Behind the Legend",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjBkMTRkMWQtNzAwYS00MmE2LWI5YzktNDU5OGY2NjIzMzNjXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 97,
+			"genre": [
+				[
+					"Biography",
+					"Drama",
+					"Sport"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "The life story of Ferruccio Lamborghini, the founder of Lamborghini.",
+			"star_rating": 5.4,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Bobby Moresco"
+				],
+				"actors": [
+					"Frank Grillo",
+					"Mira Sorvino",
+					"Gabriel Byrne",
+					"Eliana Jones"
+				]
+			},
+			"statistics": [
+				"6,557"
+			]
+		},
+		{
+			"id": 125,
+			"link": "https://www.imdb.com/title/tt0172495/?ref_=adv_li_tt",
+			"title": "Gladiator",
+			"year": 2000,
+			"img": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 155,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+			"star_rating": 8.5,
+			"metascore": 67,
+			"participated": {
+				"director": [
+					"Ridley Scott"
+				],
+				"actors": [
+					"Russell Crowe",
+					"Joaquin Phoenix",
+					"Connie Nielsen",
+					"Oliver Reed"
+				]
+			},
+			"statistics": [
+				"1,529,073",
+				"$187.71M"
+			]
+		},
+		{
+			"id": 126,
+			"link": "https://www.imdb.com/title/tt2582802/?ref_=adv_li_tt",
+			"title": "Whiplash",
+			"year": 2014,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 106,
+			"genre": [
+				[
+					"Drama",
+					"Music"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+			"star_rating": 8.5,
+			"metascore": 89,
+			"participated": {
+				"director": [
+					"Damien Chazelle"
+				],
+				"actors": [
+					"Miles Teller",
+					"J.K. Simmons",
+					"Melissa Benoist",
+					"Paul Reiser"
+				]
+			},
+			"statistics": [
+				"896,944",
+				"$13.09M"
+			]
+		},
+		{
+			"id": 127,
+			"link": "https://www.imdb.com/title/tt10304142/?ref_=adv_li_tt",
+			"title": "Amsterdam",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNDQwNzE0ZTItYmZjMC00NjI3LWFlNzctNTExZDY2NWE0Zjc0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 134,
+			"genre": [
+				[
+					"Comedy",
+					"Drama",
+					"History"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "In the 1930s, three friends witness a murder, are framed for it, and uncover one of the most outrageous plots in American history.",
+			"star_rating": 6.1,
+			"metascore": 48,
+			"participated": {
+				"director": [
+					"David O. Russell"
+				],
+				"actors": [
+					"Christian Bale",
+					"Margot Robbie",
+					"John David Washington",
+					"Alessandro Nivola"
+				]
+			},
+			"statistics": [
+				"74,793"
+			]
+		},
+		{
+			"id": 128,
+			"link": "https://www.imdb.com/title/tt5090568/?ref_=adv_li_tt",
+			"title": "Transformers: Rise of the Beasts",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZTNiNDA4NmMtNTExNi00YmViLWJkMDAtMDAxNmRjY2I2NDVjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 220,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Sci-Fi "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "Plot unknown. Reportedly based on the 'Transformers' spinoff 'Beast Wars' which feature robots that transform into robotic animals.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Steven Caple Jr."
+				],
+				"actors": [
+					"Michelle Yeoh",
+					"Pete Davidson",
+					"Ron Perlman",
+					"Peter Dinklage"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 129,
+			"link": "https://www.imdb.com/title/tt3605418/?ref_=adv_li_tt",
+			"title": "Knock Knock",
+			"year": 2015,
+			"img": "https://m.media-amazon.com/images/M/MV5BYTQ3MzhlZjQtNWMxOS00NTEzLTgzOWYtNTI3MjhmZGU0ZDM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY98_CR1,0,67,98_AL_.jpg",
+			"runtime": 99,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Horror"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A devoted father helps two stranded young women who knock on his door, but his kind gesture turns into a dangerous seduction and a deadly game of cat and mouse.",
+			"star_rating": 4.9,
+			"metascore": 53,
+			"participated": {
+				"director": [
+					"Eli Roth"
+				],
+				"actors": [
+					"Keanu Reeves",
+					"Lorenza Izzo",
+					"Ana de Armas",
+					"Aaron Burns"
+				]
+			},
+			"statistics": [
+				"98,337",
+				"$0.04M"
+			]
+		},
+		{
+			"id": 130,
+			"link": "https://www.imdb.com/title/tt4154796/?ref_=adv_li_tt",
+			"title": "Avengers: Endgame",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 181,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+			"star_rating": 8.4,
+			"metascore": 78,
+			"participated": {
+				"director": [
+					"Anthony Russo",
+					"Joe Russo"
+				],
+				"actors": [
+					"Robert Downey Jr.",
+					"Chris Evans",
+					"Mark Ruffalo",
+					"Chris Hemsworth"
+				]
+			},
+			"statistics": [
+				"1,170,048",
+				"$858.37M"
+			]
+		},
+		{
+			"id": 131,
+			"link": "https://www.imdb.com/title/tt3291150/?ref_=adv_li_tt",
+			"title": "The Expendables 4",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNGIzNjU5YTctMDllZi00MGU2LWI5MTYtYzc4ZGFjNzY5ZjYyXkEyXkFqcGdeQXVyODY5NzkyMjA@._V1_UY98_CR89,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Thriller "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "The Expendables will square up against: an arms dealer who commands the might of a massive private army.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Scott Waugh"
+				],
+				"actors": [
+					"Jason Statham",
+					"50 Cent",
+					"Megan Fox",
+					"Dolph Lundgren"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 132,
+			"link": "https://www.imdb.com/title/tt6334354/?ref_=adv_li_tt",
+			"title": "The Suicide Squad",
+			"year": 2021,
+			"img": "https://m.media-amazon.com/images/M/MV5BMWU4NDQ2NjEtNjhkOS00Y2MwLWJkODItZmJhZGE0MDU1OWM4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 132,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+			"star_rating": 7.2,
+			"metascore": 72,
+			"participated": {
+				"director": [
+					"James Gunn"
+				],
+				"actors": [
+					"Margot Robbie",
+					"Idris Elba",
+					"John Cena",
+					"Joel Kinnaman"
+				]
+			},
+			"statistics": [
+				"367,775",
+				"$55.82M"
+			]
+		},
+		{
+			"id": 133,
+			"link": "https://www.imdb.com/title/tt10545296/?ref_=adv_li_tt",
+			"title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNjZmYTk1MTktMDZlZS00ZGY0LTliMGEtOGU4NjQ4NTMzZDVhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "Coriolanus Snow mentors and develops feelings for the female District 12 tribute during the 10th Hunger Games.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Francis Lawrence"
+				],
+				"actors": [
+					"Rachel Zegler",
+					"Hunter Schafer",
+					"Viola Davis",
+					"Peter Dinklage"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 134,
+			"link": "https://www.imdb.com/title/tt11245972/?ref_=adv_li_tt",
+			"title": "Scream",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BYjExYTcwYmYtMWY2Zi00MGJlLTk3YjUtZTU1Zjg4MDc0Y2FjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 114,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "25 years after a streak of brutal murders shocked the quiet town of Woodsboro, Calif., a new killer dons the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town's deadly past.",
+			"star_rating": 6.3,
+			"metascore": 60,
+			"participated": {
+				"director": [
+					"Matt Bettinelli-Olpin",
+					"Tyler Gillett"
+				],
+				"actors": [
+					"Neve Campbell",
+					"Courteney Cox",
+					"David Arquette",
+					"Melissa Barrera"
+				]
+			},
+			"statistics": [
+				"132,363",
+				"$81.64M"
+			]
+		},
+		{
+			"id": 135,
+			"link": "https://www.imdb.com/title/tt14230388/?ref_=adv_li_tt",
+			"title": "Asteroid City",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDAxZmNmOWQtZTM2YS00MzQxLWE1Y2YtOGFlOTFmYzNmZDMzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Comedy",
+					"Romance "
+				]
+			],
+			"movie_rating": "R",
+			"plot": "The itinerary of a Junior Stargazer convention is spectacularly disrupted by world-changing events.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Wes Anderson"
+				],
+				"actors": [
+					"Jason Schwartzman",
+					"Scarlett Johansson",
+					"Tom Hanks",
+					"Jeffrey Wright"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 136,
+			"link": "https://www.imdb.com/title/tt1392170/?ref_=adv_li_tt",
+			"title": "The Hunger Games",
+			"year": 2012,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjA4NDg3NzYxMF5BMl5BanBnXkFtZTcwNTgyNzkyNw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 142,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Sci-Fi"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Katniss Everdeen voluntarily takes her younger sister's place in the Hunger Games: a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight to the death.",
+			"star_rating": 7.2,
+			"metascore": 68,
+			"participated": {
+				"director": [
+					"Gary Ross"
+				],
+				"actors": [
+					"Jennifer Lawrence",
+					"Josh Hutcherson",
+					"Liam Hemsworth",
+					"Stanley Tucci"
+				]
+			},
+			"statistics": [
+				"942,631",
+				"$408.01M"
+			]
+		},
+		{
+			"id": 137,
+			"link": "https://www.imdb.com/title/tt10855768/?ref_=adv_li_tt",
+			"title": "Missing",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNWExMzg3NjAtZmZmYy00MWE3LWJkNjEtOTYzYTZjYTZkMjZiXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 111,
+			"genre": [
+				[
+					"Drama",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "After her mother goes missing, a young woman tries to find her from home, using tools available to her online.",
+			"star_rating": 7.1,
+			"metascore": 66,
+			"participated": {
+				"director": [
+					"Nicholas D. Johnson",
+					"Will Merrick"
+				],
+				"actors": [
+					"Tim Griffin",
+					"Ava Zaria Lee",
+					"Nia Long",
+					"Kimberly Cheng"
+				]
+			},
+			"statistics": [
+				"25,901"
+			]
+		},
+		{
+			"id": 138,
+			"link": "https://www.imdb.com/title/tt0167260/?ref_=adv_li_tt",
+			"title": "The Lord of the Rings: The Return of the King",
+			"year": 2003,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 201,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+			"star_rating": 9,
+			"metascore": 94,
+			"participated": {
+				"director": [
+					"Peter Jackson"
+				],
+				"actors": [
+					"Elijah Wood",
+					"Viggo Mortensen",
+					"Ian McKellen",
+					"Orlando Bloom"
+				]
+			},
+			"statistics": [
+				"1,879,352",
+				"$377.85M"
+			]
+		},
+		{
+			"id": 139,
+			"link": "https://www.imdb.com/title/tt15339570/?ref_=adv_li_tt",
+			"title": "Champions",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTYwMWJjZTgtMzJiNS00OGIzLWE1NDYtNjgwMDUwYjZiOTc5XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 124,
+			"genre": [
+				[
+					"Comedy",
+					"Drama",
+					"Sport"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A former minor-league basketball coach is ordered by the court to manage a team of players with intellectual disabilities. He soon realizes that despite his doubts, together, this team can go further than they ever imagined.",
+			"star_rating": 6.7,
+			"metascore": 50,
+			"participated": {
+				"director": [
+					"Bobby Farrelly"
+				],
+				"actors": [
+					"Woody Harrelson",
+					"Kaitlin Olson",
+					"Matt Cook",
+					"Ernie Hudson"
+				]
+			},
+			"statistics": [
+				"8,367"
+			]
+		},
+		{
+			"id": 140,
+			"link": "https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt",
+			"title": "Jurassic World: Dominion",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR0,0,67,98_AL_.jpg",
+			"runtime": 147,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Sci-Fi"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+			"star_rating": 5.6,
+			"metascore": 38,
+			"participated": {
+				"director": [
+					"Colin Trevorrow"
+				],
+				"actors": [
+					"Chris Pratt",
+					"Bryce Dallas Howard",
+					"Laura Dern",
+					"Sam Neill"
+				]
+			},
+			"statistics": [
+				"181,122",
+				"$376.85M"
+			]
+		},
+		{
+			"id": 141,
+			"link": "https://www.imdb.com/title/tt0361748/?ref_=adv_li_tt",
+			"title": "Inglourious Basterds",
+			"year": 2009,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 153,
+			"genre": [
+				[
+					"Adventure",
+					"Drama",
+					"War"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+			"star_rating": 8.3,
+			"metascore": 69,
+			"participated": {
+				"director": [
+					"Quentin Tarantino"
+				],
+				"actors": [
+					"Brad Pitt",
+					"Diane Kruger",
+					"Eli Roth",
+					"Mélanie Laurent"
+				]
+			},
+			"statistics": [
+				"1,484,035",
+				"$120.54M"
+			]
+		},
+		{
+			"id": 142,
+			"link": "https://www.imdb.com/title/tt6751668/?ref_=adv_li_tt",
+			"title": "Parasite",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 132,
+			"genre": [
+				[
+					"Drama",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+			"star_rating": 8.5,
+			"metascore": 96,
+			"participated": {
+				"director": [
+					"Bong Joon Ho"
+				],
+				"actors": [
+					"Song Kang-ho",
+					"Lee Sun-kyun",
+					"Cho Yeo-jeong",
+					"Choi Woo-sik"
+				]
+			},
+			"statistics": [
+				"845,430",
+				"$53.37M"
+			]
+		},
+		{
+			"id": 143,
+			"link": "https://www.imdb.com/title/tt2382320/?ref_=adv_li_tt",
+			"title": "No Time to Die",
+			"year": 2021,
+			"img": "https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 163,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Thriller"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+			"star_rating": 7.3,
+			"metascore": 68,
+			"participated": {
+				"director": [
+					"Cary Joji Fukunaga"
+				],
+				"actors": [
+					"Daniel Craig",
+					"Ana de Armas",
+					"Rami Malek",
+					"Léa Seydoux"
+				]
+			},
+			"statistics": [
+				"416,015",
+				"$160.87M"
+			]
+		},
+		{
+			"id": 144,
+			"link": "https://www.imdb.com/title/tt11138512/?ref_=adv_li_tt",
+			"title": "The Northman",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 137,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A young Viking prince is on a quest to avenge his father's murder.",
+			"star_rating": 7.1,
+			"metascore": 82,
+			"participated": {
+				"director": [
+					"Robert Eggers"
+				],
+				"actors": [
+					"Alexander Skarsgård",
+					"Nicole Kidman",
+					"Claes Bang",
+					"Ethan Hawke"
+				]
+			},
+			"statistics": [
+				"225,399"
+			]
+		},
+		{
+			"id": 145,
+			"link": "https://www.imdb.com/title/tt4572514/?ref_=adv_li_tt",
+			"title": "Patriots Day",
+			"year": 2016,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDcwNGZkNzgtMTU1MC00MTQ2LWIyMzQtYWEzMmUyYjc5MTZjXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 133,
+			"genre": [
+				[
+					"Action",
+					"Crime",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "The story of the 2013 Boston Marathon bombing and the aftermath, which includes the city-wide manhunt to find the terrorists responsible.",
+			"star_rating": 7.3,
+			"metascore": 69,
+			"participated": {
+				"director": [
+					"Peter Berg"
+				],
+				"actors": [
+					"Mark Wahlberg",
+					"Michelle Monaghan",
+					"J.K. Simmons",
+					"John Goodman"
+				]
+			},
+			"statistics": [
+				"106,762",
+				"$31.89M"
+			]
+		},
+		{
+			"id": 146,
+			"link": "https://www.imdb.com/title/tt15791034/?ref_=adv_li_tt",
+			"title": "Barbarian",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BN2M3Y2NhMGYtYjUxOS00M2UwLTlmMGUtYzY4MzFlNjZkYzY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 102,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A woman staying at an Airbnb discovers that the house she has rented is not what it seems.",
+			"star_rating": 7,
+			"metascore": 78,
+			"participated": {
+				"director": [
+					"Zach Cregger"
+				],
+				"actors": [
+					"Georgina Campbell",
+					"Bill Skarsgård",
+					"Justin Long",
+					"Matthew Patrick Davis"
+				]
+			},
+			"statistics": [
+				"144,500"
+			]
+		},
+		{
+			"id": 147,
+			"link": "https://www.imdb.com/title/tt13269536/?ref_=adv_li_tt",
+			"title": "Girl in the Basement",
+			"year": 2021,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTdkYWE4ZGQtOGZkMy00ZTg1LWE5ODEtZWRlMjQ3NWQ2N2I2XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 88,
+			"genre": [
+				[
+					"Crime",
+					"Thriller"
+				]
+			],
+			"movie_rating": "TV-14",
+			"plot": "Sarah is a teen girl who is looking forward to her 18th birthday to move away from her controlling father Don. But before she could even blow out the candles, Don imprisons her in the basement of their home.",
+			"star_rating": 6.3,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Elisabeth Röhm"
+				],
+				"actors": [
+					"Judd Nelson",
+					"Stefanie Scott",
+					"Joely Fisher",
+					"Emma Myers"
+				]
+			},
+			"statistics": [
+				"9,583"
+			]
+		},
+		{
+			"id": 148,
+			"link": "https://www.imdb.com/title/tt10731256/?ref_=adv_li_tt",
+			"title": "Don't Worry Darling",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMzFkMWUzM2ItZWFjMi00NDY0LTk2MDMtZDhkMDE2MjRlYmZlXkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 123,
+			"genre": [
+				[
+					"Drama",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A 1950s housewife living with her husband in a utopian experimental community begins to worry that his glamorous company could be hiding disturbing secrets.",
+			"star_rating": 6.2,
+			"metascore": 48,
+			"participated": {
+				"director": [
+					"Olivia Wilde"
+				],
+				"actors": [
+					"Florence Pugh",
+					"Harry Styles",
+					"Chris Pine",
+					"Olivia Wilde"
+				]
+			},
+			"statistics": [
+				"112,300"
+			]
+		},
+		{
+			"id": 149,
+			"link": "https://www.imdb.com/title/tt0407887/?ref_=adv_li_tt",
+			"title": "The Departed",
+			"year": 2006,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 151,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+			"star_rating": 8.5,
+			"metascore": 85,
+			"participated": {
+				"director": [
+					"Martin Scorsese"
+				],
+				"actors": [
+					"Leonardo DiCaprio",
+					"Matt Damon",
+					"Jack Nicholson",
+					"Mark Wahlberg"
+				]
+			},
+			"statistics": [
+				"1,350,157",
+				"$132.38M"
+			]
+		},
+		{
+			"id": 150,
+			"link": "https://www.imdb.com/title/tt1273235/?ref_=adv_li_tt",
+			"title": "A Serbian Film",
+			"year": 2010,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTU2NzI3OTk4M15BMl5BanBnXkFtZTcwMTEyNzIxNA@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+			"runtime": 104,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "NC-17",
+			"plot": "An aging porn star agrees to participate in an \"art film\" in order to make a clean break from the business, only to discover that he has been drafted into making a pedophilia and necrophilia themed snuff film.",
+			"star_rating": 5,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Srdjan Spasojevic"
+				],
+				"actors": [
+					"Srdjan 'Zika' Todorovic",
+					"Sergej Trifunovic",
+					"Jelena Gavrilovic",
+					"Slobodan Bestic"
+				]
+			},
+			"statistics": [
+				"67,068"
+			]
+		},
+		{
+			"id": 151,
+			"link": "https://www.imdb.com/title/tt2015381/?ref_=adv_li_tt",
+			"title": "Guardians of the Galaxy",
+			"year": 2014,
+			"img": "https://m.media-amazon.com/images/M/MV5BNDIzMTk4NDYtMjg5OS00ZGI0LWJhZDYtMzdmZGY1YWU5ZGNkXkEyXkFqcGdeQXVyMTI5NzUyMTIz._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 121,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+			"star_rating": 8,
+			"metascore": 76,
+			"participated": {
+				"director": [
+					"James Gunn"
+				],
+				"actors": [
+					"Chris Pratt",
+					"Vin Diesel",
+					"Bradley Cooper",
+					"Zoe Saldana"
+				]
+			},
+			"statistics": [
+				"1,201,448",
+				"$333.18M"
+			]
+		},
+		{
+			"id": 152,
+			"link": "https://www.imdb.com/title/tt14138650/?ref_=adv_li_tt",
+			"title": "The Pale Blue Eye",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDg2YThlMTItYzhhMy00OWE3LTljYTAtYTExMDM5NzRjOGFhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_UY98_CR5,0,67,98_AL_.jpg",
+			"runtime": 128,
+			"genre": [
+				[
+					"Crime",
+					"Horror",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A world-weary detective is hired to investigate the murder of a West Point cadet. Stymied by the cadets' code of silence, he enlists one of their own to help unravel the case - a young man the world would come to know as Edgar Allan Poe.",
+			"star_rating": 6.6,
+			"metascore": 56,
+			"participated": {
+				"director": [
+					"Scott Cooper"
+				],
+				"actors": [
+					"Christian Bale",
+					"Harry Melling",
+					"Simon McBurney",
+					"Timothy Spall"
+				]
+			},
+			"statistics": [
+				"102,781"
+			]
+		},
+		{
+			"id": 153,
+			"link": "https://www.imdb.com/title/tt5433138/?ref_=adv_li_tt",
+			"title": "F9: The Fast Saga",
+			"year": 2021,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 143,
+			"genre": [
+				[
+					"Action",
+					"Crime",
+					"Thriller"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Dom and the crew must take on an international terrorist who turns out to be Dom and Mia's estranged brother.",
+			"star_rating": 5.2,
+			"metascore": 58,
+			"participated": {
+				"director": [
+					"Justin Lin"
+				],
+				"actors": [
+					"Vin Diesel",
+					"Michelle Rodriguez",
+					"Jordana Brewster",
+					"Tyrese Gibson"
+				]
+			},
+			"statistics": [
+				"140,589",
+				"$173.20M"
+			]
+		},
+		{
+			"id": 154,
+			"link": "https://www.imdb.com/title/tt4815122/?ref_=adv_li_tt",
+			"title": "Time Trap",
+			"year": 2017,
+			"img": "https://m.media-amazon.com/images/M/MV5BMGE0ZGYwZjItMmQ2MC00MjMzLTk1NWEtM2ZlNDE5ZWVmOTAyL2ltYWdlXkEyXkFqcGdeQXVyMjA1NjczMDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 87,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Mystery"
+				]
+			],
+			"movie_rating": "Not Rated",
+			"plot": "A professor enters a cave and goes missing. Some of his students come looking for him and get trapped in the cave as well.",
+			"star_rating": 6.2,
+			"metascore": 46,
+			"participated": {
+				"director": [
+					"Mark Dennis",
+					"Ben Foster"
+				],
+				"actors": [
+					"Reiley McClendon",
+					"Cassidy Gifford",
+					"Brianne Howey",
+					"Olivia Draguicevich"
+				]
+			},
+			"statistics": [
+				"38,995"
+			]
+		},
+		{
+			"id": 155,
+			"link": "https://www.imdb.com/title/tt2704998/?ref_=adv_li_tt",
+			"title": "Game Night",
+			"year": 2018,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjI3ODkzNDk5MF5BMl5BanBnXkFtZTgwNTEyNjY2NDM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 100,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A group of friends who meet regularly for game nights find themselves entangled in a real-life mystery when the shady brother of one of them is seemingly kidnapped by dangerous gangsters.",
+			"star_rating": 6.9,
+			"metascore": 66,
+			"participated": {
+				"director": [
+					"John Francis Daley",
+					"Jonathan Goldstein"
+				],
+				"actors": [
+					"Jason Bateman",
+					"Rachel McAdams",
+					"Kyle Chandler",
+					"Sharon Horgan"
+				]
+			},
+			"statistics": [
+				"242,714",
+				"$69.18M"
+			]
+		},
+		{
+			"id": 156,
+			"link": "https://www.imdb.com/title/tt3704428/?ref_=adv_li_tt",
+			"title": "Elvis",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BYzMzNTJjYmMtZTkxNS00MjI4LWI3YmQtOTQ4MDZjZDJlZjQyXkEyXkFqcGdeQXVyNjc0NzQzNTM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 159,
+			"genre": [
+				[
+					"Biography",
+					"Drama",
+					"Music"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "The life of American music icon Elvis Presley, from his childhood to becoming a rock and movie star in the 1950s while maintaining a complex relationship with his manager, Colonel Tom Parker.",
+			"star_rating": 7.3,
+			"metascore": 64,
+			"participated": {
+				"director": [
+					"Baz Luhrmann"
+				],
+				"actors": [
+					"Tom Hanks",
+					"Austin Butler",
+					"Olivia DeJonge",
+					"Helen Thomson"
+				]
+			},
+			"statistics": [
+				"205,519",
+				"$151.04M"
+			]
+		},
+		{
+			"id": 157,
+			"link": "https://www.imdb.com/title/tt8080204/?ref_=adv_li_tt",
+			"title": "Hypnotic",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNmIwNjBiZWItZjM3OC00YTYzLWFiZjMtZTIyMzI1NGFmNWFkXkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 92,
+			"genre": [
+				[
+					"Action",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A detective investigates a mystery involving his missing daughter and a secret government program.",
+			"star_rating": 7.2,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Robert Rodriguez"
+				],
+				"actors": [
+					"Ben Affleck",
+					"Alice Braga",
+					"JD Pardo",
+					"Dayo Okeniyi"
+				]
+			},
+			"statistics": [
+				"185"
+			]
+		},
+		{
+			"id": 158,
+			"link": "https://www.imdb.com/title/tt14253846/?ref_=adv_li_tt",
+			"title": "Speak No Evil",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BNWRhMjcwYjMtZDg2ZC00YmI1LWIwM2MtOTBhNmQ4OWUwYjgxXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_UY98_CR1,0,67,98_AL_.jpg",
+			"runtime": 97,
+			"genre": [
+				[
+					"Drama",
+					"Horror",
+					"Thriller"
+				]
+			],
+			"movie_rating": "Not Rated",
+			"plot": "A Danish family visits a Dutch family they met on a holiday. What was supposed to be an idyllic weekend slowly starts unraveling as the Danes try to stay polite in the face of unpleasantness.",
+			"star_rating": 6.6,
+			"metascore": 78,
+			"participated": {
+				"director": [
+					"Christian Tafdrup"
+				],
+				"actors": [
+					"Morten Burian",
+					"Sidsel Siem Koch",
+					"Fedja van Huêt",
+					"Karina Smulders"
+				]
+			},
+			"statistics": [
+				"25,873"
+			]
+		},
+		{
+			"id": 159,
+			"link": "https://www.imdb.com/title/tt5616176/?ref_=adv_li_tt",
+			"title": "2 Hearts",
+			"year": 2020,
+			"img": "https://m.media-amazon.com/images/M/MV5BYmU2ZTUwNGItYmI1Yy00ODEyLWFkNjItOGYwZWRmNGU3ZTZlXkEyXkFqcGdeQXVyNjkwMzU3NDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 101,
+			"genre": [
+				[
+					"Drama",
+					"Romance"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "For two couples the future unfolds in different decades and different places, but a hidden connection will bring them together in a way no one could have predicted.",
+			"star_rating": 6.3,
+			"metascore": 29,
+			"participated": {
+				"director": [
+					"Lance Hool"
+				],
+				"actors": [
+					"Jacob Elordi",
+					"Adan Canto",
+					"Tiera Skovbye",
+					"Radha Mitchell"
+				]
+			},
+			"statistics": [
+				"7,165"
+			]
+		},
+		{
+			"id": 160,
+			"link": "https://www.imdb.com/title/tt6443346/?ref_=adv_li_tt",
+			"title": "Black Adam",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 125,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods--and imprisoned just as quickly--Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+			"star_rating": 6.3,
+			"metascore": 41,
+			"participated": {
+				"director": [
+					"Jaume Collet-Serra"
+				],
+				"actors": [
+					"Dwayne Johnson",
+					"Aldis Hodge",
+					"Pierce Brosnan",
+					"Noah Centineo"
+				]
+			},
+			"statistics": [
+				"241,837",
+				"$168.15M"
+			]
+		},
+		{
+			"id": 161,
+			"link": "https://www.imdb.com/title/tt7286456/?ref_=adv_li_tt",
+			"title": "Joker",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 122,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution.",
+			"star_rating": 8.4,
+			"metascore": 59,
+			"participated": {
+				"director": [
+					"Todd Phillips"
+				],
+				"actors": [
+					"Joaquin Phoenix",
+					"Robert De Niro",
+					"Zazie Beetz",
+					"Frances Conroy"
+				]
+			},
+			"statistics": [
+				"1,342,226",
+				"$335.45M"
+			]
+		},
+		{
+			"id": 162,
+			"link": "https://www.imdb.com/title/tt1650062/?ref_=adv_li_tt",
+			"title": "Super 8",
+			"year": 2011,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjIzNjEyMzcwOF5BMl5BanBnXkFtZTcwMTkyMjE0NQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 112,
+			"genre": [
+				[
+					"Action",
+					"Mystery",
+					"Sci-Fi"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "During the summer of 1979, a group of friends witness a train crash and investigate subsequent unexplained events in their small town.",
+			"star_rating": 7,
+			"metascore": 72,
+			"participated": {
+				"director": [
+					"J.J. Abrams"
+				],
+				"actors": [
+					"Elle Fanning",
+					"AJ Michalka",
+					"Kyle Chandler",
+					"Joel Courtney"
+				]
+			},
+			"statistics": [
+				"359,780",
+				"$127.00M"
+			]
+		},
+		{
+			"id": 163,
+			"link": "https://www.imdb.com/title/tt4589218/?ref_=adv_li_tt",
+			"title": "Five Nights at Freddy's",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZTM2YTYwNjktNTFlZC00MjA0LWI4NTMtZjNjZDk5YjgyMDY3XkEyXkFqcGdeQXVyMTAzNTYwMzcx._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Horror "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "A troubled security guard begins working at Freddy Fazbear's Pizza. While spending his first night on the job, he realizes the night shift at Freddy's won't be so easy to make it through.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Emma Tammi"
+				],
+				"actors": [
+					"Josh Hutcherson",
+					"Matthew Lillard",
+					"Elizabeth Lail",
+					"Mary Stuart Masterson"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 164,
+			"link": "https://www.imdb.com/title/tt2322441/?ref_=adv_li_tt",
+			"title": "Fifty Shades of Grey",
+			"year": 2015,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 125,
+			"genre": [
+				[
+					"Drama",
+					"Romance",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
+			"star_rating": 4.2,
+			"metascore": 46,
+			"participated": {
+				"director": [
+					"Sam Taylor-Johnson"
+				],
+				"actors": [
+					"Dakota Johnson",
+					"Jamie Dornan",
+					"Jennifer Ehle",
+					"Eloise Mumford"
+				]
+			},
+			"statistics": [
+				"325,250",
+				"$166.17M"
+			]
+		},
+		{
+			"id": 165,
+			"link": "https://www.imdb.com/title/tt0454848/?ref_=adv_li_tt",
+			"title": "Inside Man",
+			"year": 2006,
+			"img": "https://m.media-amazon.com/images/M/MV5BYjc4MjA2ZDgtOGY3YS00NDYzLTlmNTEtYWMxMzcwZjgzYWNjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 129,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A police detective, a bank robber, and a high-power broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.",
+			"star_rating": 7.6,
+			"metascore": 76,
+			"participated": {
+				"director": [
+					"Spike Lee"
+				],
+				"actors": [
+					"Denzel Washington",
+					"Clive Owen",
+					"Jodie Foster",
+					"Christopher Plummer"
+				]
+			},
+			"statistics": [
+				"382,021",
+				"$88.51M"
+			]
+		},
+		{
+			"id": 166,
+			"link": "https://www.imdb.com/title/tt1392214/?ref_=adv_li_tt",
+			"title": "Prisoners",
+			"year": 2013,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 153,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+			"star_rating": 8.1,
+			"metascore": 70,
+			"participated": {
+				"director": [
+					"Denis Villeneuve"
+				],
+				"actors": [
+					"Hugh Jackman",
+					"Jake Gyllenhaal",
+					"Viola Davis",
+					"Melissa Leo"
+				]
+			},
+			"statistics": [
+				"740,340",
+				"$61.00M"
+			]
+		},
+		{
+			"id": 167,
+			"link": "https://www.imdb.com/title/tt10648342/?ref_=adv_li_tt",
+			"title": "Thor: Love and Thunder",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 118,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+			"star_rating": 6.2,
+			"metascore": 57,
+			"participated": {
+				"director": [
+					"Taika Waititi"
+				],
+				"actors": [
+					"Chris Hemsworth",
+					"Natalie Portman",
+					"Christian Bale",
+					"Tessa Thompson"
+				]
+			},
+			"statistics": [
+				"357,857",
+				"$343.26M"
+			]
+		},
+		{
+			"id": 168,
+			"link": "https://www.imdb.com/title/tt0947798/?ref_=adv_li_tt",
+			"title": "Black Swan",
+			"year": 2010,
+			"img": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 108,
+			"genre": [
+				[
+					"Drama",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake\".",
+			"star_rating": 8,
+			"metascore": 79,
+			"participated": {
+				"director": [
+					"Darren Aronofsky"
+				],
+				"actors": [
+					"Natalie Portman",
+					"Mila Kunis",
+					"Vincent Cassel",
+					"Winona Ryder"
+				]
+			},
+			"statistics": [
+				"785,441",
+				"$106.95M"
+			]
+		},
+		{
+			"id": 169,
+			"link": "https://www.imdb.com/title/tt0380510/?ref_=adv_li_tt",
+			"title": "The Lovely Bones",
+			"year": 2009,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjAwNDA1MTM2MF5BMl5BanBnXkFtZTcwMzg3NDcwMw@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 135,
+			"genre": [
+				[
+					"Drama",
+					"Fantasy",
+					"Thriller"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Centers on a young girl who has been murdered and watches over her family - and her killer - from purgatory. She must weigh her desire for vengeance against her desire for her family to heal.",
+			"star_rating": 6.6,
+			"metascore": 42,
+			"participated": {
+				"director": [
+					"Peter Jackson"
+				],
+				"actors": [
+					"Rachel Weisz",
+					"Mark Wahlberg",
+					"Saoirse Ronan",
+					"Susan Sarandon"
+				]
+			},
+			"statistics": [
+				"173,412",
+				"$43.82M"
+			]
+		},
+		{
+			"id": 170,
+			"link": "https://www.imdb.com/title/tt1843303/?ref_=adv_li_tt",
+			"title": "The VelociPastor",
+			"year": 2018,
+			"img": "https://m.media-amazon.com/images/M/MV5BZTJiZjFkNmYtNmU3My00MmE1LWI4YWEtNWFkZDJiOTgwMTNkXkEyXkFqcGdeQXVyMTg0MTI3Mg@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+			"runtime": 75,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Comedy"
+				]
+			],
+			"movie_rating": "Not Rated",
+			"plot": "After losing his parents, a priest travels to China, where he inherits a mysterious ability that allows him to turn into a dinosaur. At first horrified by this new power, a hooker convinces him to use it to fight crime. And ninjas.",
+			"star_rating": 5,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Brendan Steere"
+				],
+				"actors": [
+					"Greg Cohan",
+					"George Schewnzer",
+					"Janice Young",
+					"Daniel Steere"
+				]
+			},
+			"statistics": [
+				"7,437"
+			]
+		},
+		{
+			"id": 171,
+			"link": "https://www.imdb.com/title/tt1591095/?ref_=adv_li_tt",
+			"title": "Insidious",
+			"year": 2010,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 103,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+			"star_rating": 6.8,
+			"metascore": 52,
+			"participated": {
+				"director": [
+					"James Wan"
+				],
+				"actors": [
+					"Patrick Wilson",
+					"Rose Byrne",
+					"Ty Simpkins",
+					"Lin Shaye"
+				]
+			},
+			"statistics": [
+				"317,132",
+				"$54.01M"
+			]
+		},
+		{
+			"id": 172,
+			"link": "https://www.imdb.com/title/tt1454029/?ref_=adv_li_tt",
+			"title": "The Help",
+			"year": 2011,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 146,
+			"genre": [
+				[
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+			"star_rating": 8.1,
+			"metascore": 62,
+			"participated": {
+				"director": [
+					"Tate Taylor"
+				],
+				"actors": [
+					"Viola Davis",
+					"Emma Stone",
+					"Octavia Spencer",
+					"Bryce Dallas Howard"
+				]
+			},
+			"statistics": [
+				"470,426",
+				"$169.71M"
+			]
+		},
+		{
+			"id": 173,
+			"link": "https://www.imdb.com/title/tt8178634/?ref_=adv_li_tt",
+			"title": "RRR",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR3,0,67,98_AL_.jpg",
+			"runtime": 187,
+			"genre": [
+				[
+					"Action",
+					"Drama"
+				]
+			],
+			"movie_rating": "Not Rated",
+			"plot": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s.",
+			"star_rating": 7.8,
+			"metascore": 83,
+			"participated": {
+				"director": [
+					"S.S. Rajamouli"
+				],
+				"actors": [
+					"N.T. Rama Rao Jr.",
+					"Ram Charan",
+					"Ajay Devgn",
+					"Alia Bhatt"
+				]
+			},
+			"statistics": [
+				"147,675",
+				"$14.50M"
+			]
+		},
+		{
+			"id": 174,
+			"link": "https://www.imdb.com/title/tt6528290/?ref_=adv_li_tt",
+			"title": "Knights of the Zodiac",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZjRkNGM1Y2ItMDExMy00OGU3LWJjZjQtN2MwN2U2MmE2ZGJjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY98_CR5,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "When a goddess of war reincarnates in the body of a young girl, street orphan Seiya discovers that he is destined to protect her and save the world. But only if he can face his own past and become a Knight of the Zodiac.",
+			"star_rating": 6.6,
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Tomasz Baginski"
+				],
+				"actors": [
+					"Sean Bean",
+					"Famke Janssen",
+					"Madison Iseman",
+					"Mark Dacascos"
+				]
+			},
+			"statistics": [
+				"31"
+			]
+		},
+		{
+			"id": 175,
+			"link": "https://www.imdb.com/title/tt1392190/?ref_=adv_li_tt",
+			"title": "Mad Max: Fury Road",
+			"year": 2015,
+			"img": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 120,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Sci-Fi"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper and a drifter named Max.",
+			"star_rating": 8.1,
+			"metascore": 90,
+			"participated": {
+				"director": [
+					"George Miller"
+				],
+				"actors": [
+					"Tom Hardy",
+					"Charlize Theron",
+					"Nicholas Hoult",
+					"Zoë Kravitz"
+				]
+			},
+			"statistics": [
+				"1,025,045",
+				"$154.06M"
+			]
+		},
+		{
+			"id": 176,
+			"link": "https://www.imdb.com/title/tt0446029/?ref_=adv_li_tt",
+			"title": "Scott Pilgrim vs. the World",
+			"year": 2010,
+			"img": "https://m.media-amazon.com/images/M/MV5BNWI5ODc4MTAtN2U2NC00ZDk3LWE3NjAtNjIyODE2YTlhYjYwXkEyXkFqcGdeQXVyOTA3ODI3NDA@._V1_UY98_CR1,0,67,98_AL_.jpg",
+			"runtime": 112,
+			"genre": [
+				[
+					"Action",
+					"Comedy",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "In a magically realistic version of Toronto, a young man must defeat his new girlfriend's seven evil exes one by one in order to win her heart.",
+			"star_rating": 7.5,
+			"metascore": 69,
+			"participated": {
+				"director": [
+					"Edgar Wright"
+				],
+				"actors": [
+					"Michael Cera",
+					"Mary Elizabeth Winstead",
+					"Kieran Culkin",
+					"Anna Kendrick"
+				]
+			},
+			"statistics": [
+				"439,552",
+				"$31.49M"
+			]
+		},
+		{
+			"id": 177,
+			"link": "https://www.imdb.com/title/tt1396484/?ref_=adv_li_tt",
+			"title": "It",
+			"year": 2017,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 135,
+			"genre": [
+				[
+					"Horror"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "In the summer of 1989, a group of bullied kids band together to destroy a shape-shifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.",
+			"star_rating": 7.3,
+			"metascore": 69,
+			"participated": {
+				"director": [
+					"Andy Muschietti"
+				],
+				"actors": [
+					"Bill Skarsgård",
+					"Jaeden Martell",
+					"Finn Wolfhard",
+					"Sophia Lillis"
+				]
+			},
+			"statistics": [
+				"566,015",
+				"$327.48M"
+			]
+		},
+		{
+			"id": 178,
+			"link": "https://www.imdb.com/title/tt5052448/?ref_=adv_li_tt",
+			"title": "Get Out",
+			"year": 2017,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 104,
+			"genre": [
+				[
+					"Horror",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A young African-American visits his White girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+			"star_rating": 7.7,
+			"metascore": 85,
+			"participated": {
+				"director": [
+					"Jordan Peele"
+				],
+				"actors": [
+					"Daniel Kaluuya",
+					"Allison Williams",
+					"Bradley Whitford",
+					"Catherine Keener"
+				]
+			},
+			"statistics": [
+				"635,786",
+				"$176.04M"
+			]
+		},
+		{
+			"id": 179,
+			"link": "https://www.imdb.com/title/tt9603212/?ref_=adv_li_tt",
+			"title": "Mission: Impossible - Dead Reckoning Part One",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNjAzMzVhZWItZTg4ZS00NTEyLTk2ODctNzMxZWIzYzdlZWZmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Thriller "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "Seventh entry in the long-running Mission: Impossible series.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Christopher McQuarrie"
+				],
+				"actors": [
+					"Tom Cruise",
+					"Hayley Atwell",
+					"Ving Rhames",
+					"Simon Pegg"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 180,
+			"link": "https://www.imdb.com/title/tt8093700/?ref_=adv_li_tt",
+			"title": "The Woman King",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BY2I4MDIwYWUtOWMxNC00ZTIzLWE3OGYtOWUyMmIwZGE2NjU4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UY98_CR5,0,67,98_AL_.jpg",
+			"runtime": 135,
+			"genre": [
+				[
+					"Action",
+					"Drama",
+					"History"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A historical epic inspired by true events that took place in The Kingdom of Dahomey, one of the most powerful states of Africa in the 18th and 19th centuries.",
+			"star_rating": 6.8,
+			"metascore": 77,
+			"participated": {
+				"director": [
+					"Gina Prince-Bythewood"
+				],
+				"actors": [
+					"Viola Davis",
+					"Thuso Mbedu",
+					"Lashana Lynch",
+					"Sheila Atim"
+				]
+			},
+			"statistics": [
+				"58,870",
+				"$67.33M"
+			]
+		},
+		{
+			"id": 181,
+			"link": "https://www.imdb.com/title/tt8110652/?ref_=adv_li_tt",
+			"title": "Bodies Bodies Bodies",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BYTA2ODg5ZjgtOTU2My00MzFkLWI0NzMtZmQ5MmRhMWU1NzhlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 94,
+			"genre": [
+				[
+					"Comedy",
+					"Horror",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "When a group of rich 20-somethings plan a hurricane party at a remote family mansion, a party game turns deadly in this fresh and funny look at backstabbing, fake friends, and one party gone very, very wrong.",
+			"star_rating": 6.2,
+			"metascore": 69,
+			"participated": {
+				"director": [
+					"Halina Reijn"
+				],
+				"actors": [
+					"Amandla Stenberg",
+					"Maria Bakalova",
+					"Myha'la Herrold",
+					"Rachel Sennott"
+				]
+			},
+			"statistics": [
+				"47,689"
+			]
+		},
+		{
+			"id": 182,
+			"link": "https://www.imdb.com/title/tt2278388/?ref_=adv_li_tt",
+			"title": "The Grand Budapest Hotel",
+			"year": 2014,
+			"img": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 99,
+			"genre": [
+				[
+					"Adventure",
+					"Comedy",
+					"Crime"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+			"star_rating": 8.1,
+			"metascore": 88,
+			"participated": {
+				"director": [
+					"Wes Anderson"
+				],
+				"actors": [
+					"Ralph Fiennes",
+					"F. Murray Abraham",
+					"Mathieu Amalric",
+					"Adrien Brody"
+				]
+			},
+			"statistics": [
+				"833,441",
+				"$59.10M"
+			]
+		},
+		{
+			"id": 183,
+			"link": "https://www.imdb.com/title/tt13223398/?ref_=adv_li_tt",
+			"title": "Beast",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BMmY5MDI2YmQtNDM0YS00ZWI3LTlmM2YtYWMzNjYyOWRiZGVhXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 93,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator.",
+			"star_rating": 5.6,
+			"metascore": 54,
+			"participated": {
+				"director": [
+					"Baltasar Kormákur"
+				],
+				"actors": [
+					"Liyabuya Gongo",
+					"Martin Munro",
+					"Daniel Hadebe",
+					"Thapelo Sebogodi"
+				]
+			},
+			"statistics": [
+				"32,720",
+				"$31.85M"
+			]
+		},
+		{
+			"id": 184,
+			"link": "https://www.imdb.com/title/tt4633694/?ref_=adv_li_tt",
+			"title": "Spider-Man: Into the Spider-Verse",
+			"year": 2018,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 117,
+			"genre": [
+				[
+					"Animation",
+					"Action",
+					"Adventure"
+				]
+			],
+			"movie_rating": "PG",
+			"plot": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+			"star_rating": 8.4,
+			"metascore": 87,
+			"participated": {
+				"director": [
+					"Bob Persichetti",
+					"Peter Ramsey",
+					"Rodney Rothman"
+				],
+				"actors": [
+					"Shameik Moore",
+					"Jake Johnson",
+					"Hailee Steinfeld",
+					"Mahershala Ali"
+				]
+			},
+			"statistics": [
+				"556,533",
+				"$190.24M"
+			]
+		},
+		{
+			"id": 185,
+			"link": "https://www.imdb.com/title/tt0414387/?ref_=adv_li_tt",
+			"title": "Pride & Prejudice",
+			"year": 2005,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 129,
+			"genre": [
+				[
+					"Drama",
+					"Romance"
+				]
+			],
+			"movie_rating": "PG",
+			"plot": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?",
+			"star_rating": 7.8,
+			"metascore": 82,
+			"participated": {
+				"director": [
+					"Joe Wright"
+				],
+				"actors": [
+					"Keira Knightley",
+					"Matthew Macfadyen",
+					"Brenda Blethyn",
+					"Donald Sutherland"
+				]
+			},
+			"statistics": [
+				"306,480",
+				"$38.41M"
+			]
+		},
+		{
+			"id": 186,
+			"link": "https://www.imdb.com/title/tt14123284/?ref_=adv_li_tt",
+			"title": "Havoc",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZjc0MjZjMDUtNzE1My00ZDFlLTkwZjYtMGVmZGE5MWUzZWExXkEyXkFqcGdeQXVyMTIwMTA4Mjc3._V1_UY98_CR10,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Action",
+					"Thriller "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "The story is set after a drug deal gone wrong, when a bruised detective must fight his way through a criminal underworld to rescue a politician's estranged son, while unraveling a deep web ... See full summary »",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Gareth Evans"
+				],
+				"actors": [
+					"Tom Hardy",
+					"Timothy Olyphant",
+					"Jessie Mei Li",
+					"Forest Whitaker"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 187,
+			"link": "https://www.imdb.com/title/tt7144666/?ref_=adv_li_tt",
+			"title": "The Black Phone",
+			"year": 2021,
+			"img": "https://m.media-amazon.com/images/M/MV5BMWQxOGJlNTUtYTc1YS00NDkyLWExZjItMTFiYWEzMjAzYTdjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY98_CR5,0,67,98_AL_.jpg",
+			"runtime": 103,
+			"genre": [
+				[
+					"Horror",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "After being abducted by a child killer and locked in a soundproof basement, a 13-year-old boy starts receiving calls on a disconnected phone from the killer's previous victims.",
+			"star_rating": 6.9,
+			"metascore": 65,
+			"participated": {
+				"director": [
+					"Scott Derrickson"
+				],
+				"actors": [
+					"Mason Thames",
+					"Madeleine McGraw",
+					"Ethan Hawke",
+					"Jeremy Davies"
+				]
+			},
+			"statistics": [
+				"163,674",
+				"$90.12M"
+			]
+		},
+		{
+			"id": 188,
+			"link": "https://www.imdb.com/title/tt0377092/?ref_=adv_li_tt",
+			"title": "Mean Girls",
+			"year": 2004,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjE1MDQ4MjI1OV5BMl5BanBnXkFtZTcwNzcwODAzMw@@._V1_UY98_CR1,0,67,98_AL_.jpg",
+			"runtime": 97,
+			"genre": [
+				[
+					"Comedy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+			"star_rating": 7.1,
+			"metascore": 66,
+			"participated": {
+				"director": [
+					"Mark Waters"
+				],
+				"actors": [
+					"Lindsay Lohan",
+					"Jonathan Bennett",
+					"Rachel McAdams",
+					"Tina Fey"
+				]
+			},
+			"statistics": [
+				"396,745",
+				"$86.06M"
+			]
+		},
+		{
+			"id": 189,
+			"link": "https://www.imdb.com/title/tt0180093/?ref_=adv_li_tt",
+			"title": "Requiem for a Dream",
+			"year": 2000,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 102,
+			"genre": [
+				[
+					"Drama"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+			"star_rating": 8.3,
+			"metascore": 71,
+			"participated": {
+				"director": [
+					"Darren Aronofsky"
+				],
+				"actors": [
+					"Ellen Burstyn",
+					"Jared Leto",
+					"Jennifer Connelly",
+					"Marlon Wayans"
+				]
+			},
+			"statistics": [
+				"858,358",
+				"$3.64M"
+			]
+		},
+		{
+			"id": 190,
+			"link": "https://www.imdb.com/title/tt0166924/?ref_=adv_li_tt",
+			"title": "Mulholland Drive",
+			"year": 2001,
+			"img": "https://m.media-amazon.com/images/M/MV5BYTRiMzg4NDItNTc3Zi00NjBjLTgwOWYtOGZjMTFmNGU4ODY4XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 147,
+			"genre": [
+				[
+					"Drama",
+					"Mystery",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+			"star_rating": 7.9,
+			"metascore": 86,
+			"participated": {
+				"director": [
+					"David Lynch"
+				],
+				"actors": [
+					"Naomi Watts",
+					"Laura Harring",
+					"Justin Theroux",
+					"Jeanne Bates"
+				]
+			},
+			"statistics": [
+				"365,285",
+				"$7.22M"
+			]
+		},
+		{
+			"id": 191,
+			"link": "https://www.imdb.com/title/tt14826022/?ref_=adv_li_tt",
+			"title": "You People",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BNGM2NTQ2MGUtYmVjZS00YTNjLTkxMjUtOWQ2ZjRiMDQyNmVlXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 117,
+			"genre": [
+				[
+					"Comedy",
+					"Romance"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Follows a new couple and their families, who find themselves examining modern love and family dynamics amidst clashing cultures, societal expectations and generational differences.",
+			"star_rating": 5.5,
+			"metascore": 50,
+			"participated": {
+				"director": [
+					"Kenya Barris"
+				],
+				"actors": [
+					"Jonah Hill",
+					"Lauren London",
+					"Eddie Murphy",
+					"Julia Louis-Dreyfus"
+				]
+			},
+			"statistics": [
+				"54,762"
+			]
+		},
+		{
+			"id": 192,
+			"link": "https://www.imdb.com/title/tt12921446/?ref_=adv_li_tt",
+			"title": "The Exorcist",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMGM0N2FhODctZmNkMS00Y2ZlLWJlNjQtZWM2M2YyNTQ1MWEwXkEyXkFqcGdeQXVyMzg2NDQ3ODE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 121,
+			"genre": [
+				[
+					"Horror "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "Sequel to the 1973 film about a 12-year-old girl who is possessed by a mysterious demonic entity, forcing her mother to seek the help of two priests to save her.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"David Gordon Green"
+				],
+				"actors": [
+					"Ellen Burstyn",
+					"Leslie Odom Jr.",
+					"Ann Dowd",
+					"Raphael Sbarge"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 193,
+			"link": "https://www.imdb.com/title/tt10954652/?ref_=adv_li_tt",
+			"title": "Old",
+			"year": 2021,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjJjZGRhM2YtNTU4NC00OWMwLThhYWUtMWUxNDNhMDZlOTNmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 108,
+			"genre": [
+				[
+					"Drama",
+					"Horror",
+					"Mystery"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A vacationing family discovers that the secluded beach where they're relaxing for a few hours is somehow causing them to age rapidly, reducing their entire lives into a single day.",
+			"star_rating": 5.8,
+			"metascore": 55,
+			"participated": {
+				"director": [
+					"M. Night Shyamalan"
+				],
+				"actors": [
+					"Gael García Bernal",
+					"Vicky Krieps",
+					"Rufus Sewell",
+					"Alex Wolff"
+				]
+			},
+			"statistics": [
+				"132,742",
+				"$48.28M"
+			]
+		},
+		{
+			"id": 194,
+			"link": "https://www.imdb.com/title/tt21440780/?ref_=adv_li_tt",
+			"title": "How to Blow Up a Pipeline",
+			"year": 2022,
+			"img": "https://m.media-amazon.com/images/M/MV5BYmQyOGQxMGQtNzVjMy00ZmQ2LTg5NzAtZTNkNDMzODkyZDgzXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 104,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A crew of environmental activists plot a daring plan to disrupt an oil pipeline.",
+			"star_rating": 7.5,
+			"metascore": 77,
+			"participated": {
+				"director": [
+					"Daniel Goldhaber"
+				],
+				"actors": [
+					"Ariela Barer",
+					"Kristine Froseth",
+					"Lukas Gage",
+					"Forrest Goodluck"
+				]
+			},
+			"statistics": [
+				"1,353"
+			]
+		},
+		{
+			"id": 195,
+			"link": "https://www.imdb.com/title/tt0325980/?ref_=adv_li_tt",
+			"title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+			"year": 2003,
+			"img": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 143,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+			"star_rating": 8.1,
+			"metascore": 63,
+			"participated": {
+				"director": [
+					"Gore Verbinski"
+				],
+				"actors": [
+					"Johnny Depp",
+					"Geoffrey Rush",
+					"Orlando Bloom",
+					"Keira Knightley"
+				]
+			},
+			"statistics": [
+				"1,148,727",
+				"$305.41M"
+			]
+		},
+		{
+			"id": 196,
+			"link": "https://www.imdb.com/title/tt0470752/?ref_=adv_li_tt",
+			"title": "Ex Machina",
+			"year": 2014,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 108,
+			"genre": [
+				[
+					"Drama",
+					"Sci-Fi",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+			"star_rating": 7.7,
+			"metascore": 78,
+			"participated": {
+				"director": [
+					"Alex Garland"
+				],
+				"actors": [
+					"Alicia Vikander",
+					"Domhnall Gleeson",
+					"Oscar Isaac",
+					"Sonoya Mizuno"
+				]
+			},
+			"statistics": [
+				"558,917",
+				"$25.44M"
+			]
+		},
+		{
+			"id": 197,
+			"link": "https://www.imdb.com/title/tt0145487/?ref_=adv_li_tt",
+			"title": "Spider-Man",
+			"year": 2002,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 121,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Sci-Fi"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+			"star_rating": 7.4,
+			"metascore": 73,
+			"participated": {
+				"director": [
+					"Sam Raimi"
+				],
+				"actors": [
+					"Tobey Maguire",
+					"Kirsten Dunst",
+					"Willem Dafoe",
+					"James Franco"
+				]
+			},
+			"statistics": [
+				"834,326",
+				"$403.71M"
+			]
+		},
+		{
+			"id": 198,
+			"link": "https://www.imdb.com/title/tt2239822/?ref_=adv_li_tt",
+			"title": "Valerian and the City of a Thousand Planets",
+			"year": 2017,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTkxMDAxNDUyNV5BMl5BanBnXkFtZTgwOTc3MzcxMjI@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 136,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "A dark force threatens Alpha, a vast metropolis and home to species from a thousand planets. Special operatives Valerian and Laureline must race to identify the marauding menace and safeguard not just Alpha, but the future of the universe.",
+			"star_rating": 6.4,
+			"metascore": 51,
+			"participated": {
+				"director": [
+					"Luc Besson"
+				],
+				"actors": [
+					"Dane DeHaan",
+					"Cara Delevingne",
+					"Clive Owen",
+					"Rihanna"
+				]
+			},
+			"statistics": [
+				"187,225",
+				"$41.19M"
+			]
+		},
+		{
+			"id": 199,
+			"link": "https://www.imdb.com/title/tt1099212/?ref_=adv_li_tt",
+			"title": "Twilight",
+			"year": 2008,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 122,
+			"genre": [
+				[
+					"Drama",
+					"Fantasy",
+					"Romance"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire.",
+			"star_rating": 5.3,
+			"metascore": 56,
+			"participated": {
+				"director": [
+					"Catherine Hardwicke"
+				],
+				"actors": [
+					"Kristen Stewart",
+					"Robert Pattinson",
+					"Billy Burke",
+					"Sarah Clarke"
+				]
+			},
+			"statistics": [
+				"470,144",
+				"$192.77M"
+			]
+		},
+		{
+			"id": 200,
+			"link": "https://www.imdb.com/title/tt9620292/?ref_=adv_li_tt",
+			"title": "Promising Young Woman",
+			"year": 2020,
+			"img": "https://m.media-amazon.com/images/M/MV5BOTgzMzE4MGItZDgxYS00ZGEwLWE3YTctZWY3ZDAyMTk0ZGU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 113,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Mystery"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+			"star_rating": 7.5,
+			"metascore": 73,
+			"participated": {
+				"director": [
+					"Emerald Fennell"
+				],
+				"actors": [
+					"Carey Mulligan",
+					"Bo Burnham",
+					"Alison Brie",
+					"Clancy Brown"
+				]
+			},
+			"statistics": [
+				"185,742"
+			]
+		},
+		{
+			"id": 201,
+			"link": "https://www.imdb.com/title/tt1119646/?ref_=adv_li_tt",
+			"title": "The Hangover",
+			"year": 2009,
+			"img": "https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 100,
+			"genre": [
+				[
+					"Comedy"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+			"star_rating": 7.7,
+			"metascore": 73,
+			"participated": {
+				"director": [
+					"Todd Phillips"
+				],
+				"actors": [
+					"Zach Galifianakis",
+					"Bradley Cooper",
+					"Justin Bartha",
+					"Ed Helms"
+				]
+			},
+			"statistics": [
+				"804,050",
+				"$277.32M"
+			]
+		},
+		{
+			"id": 202,
+			"link": "https://www.imdb.com/title/tt6166392/?ref_=adv_li_tt",
+			"title": "Wonka",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BMTY0NjQ1ZmItNDE0Ni00MDQ5LTkxZDItYmU3MTY0ZjhiNjNlXkEyXkFqcGdeQXVyMTQ4MTE5NTE1._V1_UY98_CR6,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Adventure",
+					"Comedy",
+					"Family "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "The story will focus specifically on a young Willy Wonka and how he met the Oompa-Loompas on one of his earliest adventures.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Paul King"
+				],
+				"actors": [
+					"Timothée Chalamet",
+					"Hugh Grant",
+					"Keegan-Michael Key",
+					"Olivia Colman"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 203,
+			"link": "https://www.imdb.com/title/tt20115096/?ref_=adv_li_tt",
+			"title": "A Tourist's Guide to Love",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZDhkZGViOGMtMzk0OS00MTI5LWI1YjEtZGNmMmM0ZGU1M2FiXkEyXkFqcGdeQXVyMTUyMzg5NzM2._V1_UY98_CR1,0,67,98_AL_.jpg",
+			"runtime": 94,
+			"genre": [
+				[
+					"Adventure",
+					"Comedy",
+					"Romance"
+				]
+			],
+			"movie_rating": "TV-PG",
+			"plot": "An executive goes through an unexpected breakup, then accepting an assignment to go undercover and learn about the tourist industry in Vietnam.",
+			"star_rating": 5.7,
+			"metascore": 49,
+			"participated": {
+				"director": [
+					"Steven K. Tsuchida"
+				],
+				"actors": [
+					"Rachael Leigh Cook",
+					"Scott Ly",
+					"Ben Feldman",
+					"Missi Pyle"
+				]
+			},
+			"statistics": [
+				"1,897"
+			]
+		},
+		{
+			"id": 204,
+			"link": "https://www.imdb.com/title/tt9224104/?ref_=adv_li_tt",
+			"title": "The Meg 2: The Trench",
+			"year": 2023,
+			"img": "https://m.media-amazon.com/images/M/MV5BZmNjMzkyODYtZjgxNS00ZDJiLTlmYzQtZGEzNDdmOTZjZTIxXkEyXkFqcGdeQXVyMTU0ODY5OTAx._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": "undefined",
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Horror "
+				]
+			],
+			"movie_rating": "undefined",
+			"plot": "Plot unknown. Sequel to the 2018 film 'The Meg'.",
+			"star_rating": "undefined",
+			"metascore": "undefined",
+			"participated": {
+				"director": [
+					"Ben Wheatley"
+				],
+				"actors": [
+					"Jason Statham",
+					"Jing Wu",
+					"Cliff Curtis",
+					"Sienna Guillory"
+				]
+			},
+			"statistics": [
+				"undefined"
+			]
+		},
+		{
+			"id": 205,
+			"link": "https://www.imdb.com/title/tt0477348/?ref_=adv_li_tt",
+			"title": "No Country for Old Men",
+			"year": 2007,
+			"img": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 122,
+			"genre": [
+				[
+					"Crime",
+					"Drama",
+					"Thriller"
+				]
+			],
+			"movie_rating": "R",
+			"plot": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+			"star_rating": 8.2,
+			"metascore": 92,
+			"participated": {
+				"director": [
+					"Ethan Coen",
+					"Joel Coen"
+				],
+				"actors": [
+					"Tommy Lee Jones",
+					"Javier Bardem",
+					"Josh Brolin",
+					"Woody Harrelson"
+				]
+			},
+			"statistics": [
+				"996,569",
+				"$74.28M"
+			]
+		},
+		{
+			"id": 206,
+			"link": "https://www.imdb.com/title/tt2527338/?ref_=adv_li_tt",
+			"title": "Star Wars: Episode IX - The Rise of Skywalker",
+			"year": 2019,
+			"img": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UX67_CR0,0,67,98_AL_.jpg",
+			"runtime": 141,
+			"genre": [
+				[
+					"Action",
+					"Adventure",
+					"Fantasy"
+				]
+			],
+			"movie_rating": "PG-13",
+			"plot": "In the riveting conclusion of the landmark Skywalker saga, new legends will be born-and the final battle for freedom is yet to come.",
+			"star_rating": 6.5,
+			"metascore": 53,
+			"participated": {
+				"director": [
+					"J.J. Abrams"
+				],
+				"actors": [
+					"Daisy Ridley",
+					"John Boyega",
+					"Oscar Isaac",
+					"Adam Driver"
+				]
+			},
+			"statistics": [
+				"464,677",
+				"$515.20M"
+			]
+		}
+	]
+}
